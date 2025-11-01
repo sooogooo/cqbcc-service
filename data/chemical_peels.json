@@ -1,0 +1,133 @@
+{
+  "chemical_peels": [
+    {
+      "id": "salicylic_acid_sandwich",
+      "brand": "博乐达水杨酸",
+      "name": "三明治疗法",
+      "name_en": "Sandwich Therapy",
+      "price": 1580,
+      "description": "微痛，效果特别好，需要配合终点反应多层促渗祛痘抗炎"
+    },
+    {
+      "id": "salicylic_acid_face",
+      "brand": "博乐达水杨酸",
+      "name": "超分子水杨酸焕肤",
+      "area": "面部",
+      "price_single": 699,
+      "description": "水杨酸通过抑制皮脂分泌、松解角质及抗炎作用调节痤疮"
+    },
+    {
+      "id": "salicylic_acid_nose",
+      "brand": "博乐达水杨酸",
+      "name": "超分子水杨酸焕肤",
+      "area": "鼻头",
+      "price_single": 299
+    },
+    {
+      "id": "salicylic_acid_neck",
+      "brand": "博乐达水杨酸",
+      "name": "超分子水杨酸焕肤",
+      "area": "颈部",
+      "price_single": 699
+    },
+    {
+      "id": "salicylic_acid_nose_chin",
+      "brand": "博乐达水杨酸",
+      "name": "超分子水杨酸焕肤",
+      "area": "鼻子",
+      "price_single": 299
+    },
+    {
+      "id": "salicylic_acid_chin",
+      "brand": "博乐达水杨酸",
+      "name": "超分子水杨酸焕肤",
+      "area": "下颏",
+      "price_single": 299
+    },
+    {
+      "id": "salicylic_acid_forehead",
+      "brand": "博乐达水杨酸",
+      "name": "超分子水杨酸焕肤",
+      "area": "额头",
+      "price_single": 399
+    },
+    {
+      "id": "salicylic_acid_t_zone",
+      "brand": "博乐达水杨酸",
+      "name": "超分子水杨酸焕肤",
+      "area": "大T区",
+      "description": "额头、鼻子、下颏",
+      "price_single": 580
+    }
+  ],
+  "body_peels": {
+    "mandelic_acid": [
+      {
+        "area": "手部",
+        "price_single": 680
+      },
+      {
+        "area": "颈部",
+        "price_single": 680
+      },
+      {
+        "area": "腋窝",
+        "price_single": 980
+      },
+      {
+        "area": "手肘",
+        "price_single": 980
+      },
+      {
+        "area": "膝盖",
+        "price_single": 980
+      },
+      {
+        "area": "前胸",
+        "note": "不包含乳头",
+        "price_single": 1280
+      },
+      {
+        "area": "双臀",
+        "price_single": 1280
+      },
+      {
+        "area": "双臂",
+        "note": "内加外 含关节",
+        "price_single": 1980
+      },
+      {
+        "area": "外臂",
+        "price_single": 1580
+      },
+      {
+        "area": "小腿",
+        "price_single": 1680
+      },
+      {
+        "area": "大腿",
+        "price_single": 1980
+      },
+      {
+        "area": "后背",
+        "price_single": 2980
+      },
+      {
+        "area": "1/2背部",
+        "price_single": 1980
+      },
+      {
+        "area": "全身畅刷",
+        "price_single": 5980
+      }
+    ],
+    "upgrade_options": {
+      "升级水杨酸": {
+        "小部位加价": 500,
+        "中部位加价": 800,
+        "大部位加价": 1200,
+        "全身加价": 2980
+      }
+    }
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "injectables": {
+    "regenerative_materials": [
+      {
+        "id": "yvoire_volume",
+        "name": "艾维岚",
+        "name_en": "Yvoire Volume",
+        "type": "PDLLA+HA",
+        "specification": "340mg",
+        "price_original": 18800,
+        "price_activity": 8800,
+        "note": "原价购买3个月免费补打1次"
+      },
+      {
+        "id": "普丽妍童颜",
+        "name": "普丽妍童颜",
+        "name_en": "Sculptra",
+        "type": "PLLA",
+        "specification": "370mg",
+        "price_original": 16800,
+        "price_activity": 11800
+      },
+      {
+        "id": "lepu_sculptra",
+        "name": "乐普·臻童颜",
+        "name_en": "Lepu Sculptra",
+        "type": "PLLA",
+        "specification": "370mg",
+        "price_original": 8800,
+        "price_activity": 6800
+      },
+      {
+        "id": "ellanse",
+        "name": "濡白天使",
+        "name_en": "Ellanse",
+        "type": "PCL",
+        "specification": "0.75ml",
+        "price_original": 12800,
+        "price_activity": 5980
+      },
+      {
+        "id": "超序之美",
+        "name": "超序之美",
+        "name_en": "CaHA",
+        "type": "羟基磷灰石",
+        "specification": "0.3ml+1.0ml",
+        "price_original": 18800,
+        "price_activity": 13800
+      }
+    ],
+    "collagen": [
+      {
+        "id": "shuangmei_rourou",
+        "name": "双美肤柔美",
+        "name_en": "ShuangMei Collagen",
+        "type": "胶原蛋白",
+        "specification": "0.5ml",
+        "price_original": 6800,
+        "price_activity": 4800
+      },
+      {
+        "id": "fulaimi",
+        "name": "肤莱美",
+        "name_en": "Fulaimei",
+        "type": "胶原蛋白",
+        "specification": "1.0ml",
+        "price_original": 12800,
+        "price_activity": 9800
+      },
+      {
+        "id": "forman_05",
+        "name": "弗缦0.5",
+        "name_en": "Forman 0.5",
+        "type": "胶原蛋白",
+        "specification": "0.5ml",
+        "price_original": 4800,
+        "price_activity": 2980,
+        "note": "唇部、卧蚕专用"
+      },
+      {
+        "id": "forman_10",
+        "name": "弗缦1.0",
+        "name_en": "Forman 1.0",
+        "type": "胶原蛋白",
+        "specification": "1.0ml",
+        "price_original": 6800,
+        "price_activity": 4980
+      },
+      {
+        "id": "alice_collagen",
+        "name": "爱莉丝胶原",
+        "name_en": "Alice Collagen",
+        "type": "胶原蛋白",
+        "specification": "1.0ml",
+        "price_original": 3980,
+        "price_activity": 2980
+      }
+    ],
+    "hyaluronic_acid_large": [
+      {
+        "id": "silkduo_1",
+        "name": "丝孄朵①号",
+        "name_en": "Silkduo No.1",
+        "type": "大分子玻尿酸",
+        "specification": "1.0ml",
+        "price_original": 6800,
+        "price_activity": 2980
+      },
+      {
+        "id": "润致5号",
+        "name": "润致5号",
+        "name_en": "Runthi No.5",
+        "type": "大分子玻尿酸",
+        "specification": "1.0ml",
+        "price_original": 2980,
+        "price_activity": 1980
+      },
+      {
+        "id": "alaisten",
+        "name": "爱拉丝提",
+        "name_en": "Alaisten",
+        "type": "大分子玻尿酸",
+        "specification": "1.0ml",
+        "price_original": 5800,
+        "price_activity": 2980
+      },
+      {
+        "id": "restylane_liduo",
+        "name": "瑞蓝丽瑅丽多",
+        "name_en": "Restylane Lyft",
+        "type": "大分子玻尿酸",
+        "specification": "1.0ml",
+        "price_original": 13800,
+        "price_activity": 8800
+      },
+      {
+        "id": "juvederm_voluma",
+        "name": "丰颜",
+        "name_en": "Juvederm Voluma",
+        "type": "大分子玻尿酸",
+        "specification": "1.0ml",
+        "price_original": 12800,
+        "price_activity": 9800
+      },
+      {
+        "id": "restylane_defyne",
+        "name": "瑞蓝定采",
+        "name_en": "Restylane Defyne",
+        "type": "大分子玻尿酸",
+        "specification": "1.0ml",
+        "price_original": 14800,
+        "price_activity": 12800
+      },
+      {
+        "id": "restylane_refyne",
+        "name": "瑞蓝丰采",
+        "name_en": "Restylane Refyne",
+        "type": "大分子玻尿酸",
+        "specification": "1.0ml",
+        "price_original": 14800,
+        "price_activity": 12800
+      }
+    ],
+    "hyaluronic_acid_small": [
+      {
+        "id": "缇颜",
+        "name": "缇颜",
+        "name_en": "Teosyal",
+        "type": "小分子玻尿酸",
+        "specification": "1.0ml",
+        "price_original": 15800,
+        "price_activity": 9800
+      },
+      {
+        "id": "restylane_vital",
+        "name": "瑞瑅",
+        "name_en": "Restylane Vital",
+        "type": "小分子玻尿酸",
+        "specification": "1.0ml",
+        "price_original": 6800,
+        "price_activity": 4800,
+        "note": "唇部、卧蚕专用"
+      },
+      {
+        "id": "润致斐然",
+        "name": "润致斐然",
+        "name_en": "Runthi Feiran",
+        "type": "小分子玻尿酸",
+        "specification": "1.0ml",
+        "price_original": 7980,
+        "price_activity": 3980
+      },
+      {
+        "id": "润致natural",
+        "name": "润致natural",
+        "name_en": "Runthi Natural",
+        "type": "小分子玻尿酸",
+        "specification": "1.0ml",
+        "price_original": 2980,
+        "price_activity": 1980
+      },
+      {
+        "id": "润致3号",
+        "name": "润致3号",
+        "name_en": "Runthi No.3",
+        "type": "小分子玻尿酸",
+        "specification": "1.0ml",
+        "price_original": 2980,
+        "price_activity": 1680
+      }
+    ],
+    "special_products": [
+      {
+        "id": "panda_needle",
+        "name": "熊猫针",
+        "name_en": "Panda Needle",
+        "type": "嗨体",
+        "specification": "1.0ml",
+        "price_original": 2580,
+        "price_activity": 1580,
+        "note": "限新客户"
+      }
+    ]
+  }
+}

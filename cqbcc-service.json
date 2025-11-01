@@ -1,0 +1,1898 @@
+{
+  "categories": [
+    {
+      "id": "acne_treatment",
+      "name": "痤疮痘痘治疗",
+      "description": "针对痘痘、痘坑、痘印等问题的综合治疗方案",
+      "subcategories": [
+        {
+          "id": "single_items",
+          "name": "祛痘单品",
+          "items": [
+            {
+              "id": "laser_extraction",
+              "name": "激光针清 / 湿敷舒敏 / 红蓝光",
+              "price": {
+                "single": 99,
+                "package_3": 199
+              },
+              "description": "用于轻度痘肌问题，消炎去红，针清采用激光开口，更卫生"
+            },
+            {
+              "id": "salicylic_acid",
+              "name": "博乐达水杨酸",
+              "area": "面部",
+              "price": {
+                "single": 680,
+                "package_3": 1680
+              },
+              "description": "水杨酸通过抑制皮脂分泌、松解角质及抗炎作用调节痤疮发生发展的主要环节，促进已有皮损的消退，减少新发皮疹，并且可以通过色素调控作用减少色沉发生，并促进堆积色素颗粒代谢，还可调控成纤维细胞调节胶原的重塑，改善肤质。"
+            },
+            {
+              "id": "needle_knife",
+              "name": "小针刀剥离",
+              "price": {
+                "single": 980,
+                "package_3": 2580
+              },
+              "description": "很多严重痘坑，真皮层以及和皮下组织形成粘连，单纯通过胶原再生不能很好的起到效果，所以需要通过独特的技术对真皮进行剥离，降低皮下组织的粘连，加速痘坑问题的治疗。"
+            },
+            {
+              "id": "fractional_1565",
+              "name": "1565非剥脱点阵",
+              "price": {
+                "single": 980,
+                "package_3": 2580
+              },
+              "description": "1565nm波长激光，聚焦于真皮中上层（约0.8mm），能量分布更集中，适合浅中层痘坑、毛孔粗大、细纹及轻中度痤疮疤痕"
+            },
+            {
+              "id": "fractional_1550",
+              "name": "1550非剥脱点阵激光",
+              "price": {
+                "single": 1280,
+                "package_3": 2980
+              },
+              "description": "相较于1565激光，对水的吸收率稍低，穿透较深，适合改善中深层痘坑、萎缩性瘢痕（如滚轮型、厢车型痘坑），对严重痘坑的胶原重塑效果更强，尤其适合亚洲人较厚的真皮层"
+            },
+            {
+              "id": "co2_fractional",
+              "name": "二氧化碳点阵激光",
+              "price": {
+                "single": 1280,
+                "package_3": 2980
+              },
+              "description": "对医生技术要求极高的项目，光作用于皮肤时，迅速将光能转化为热能，在皮肤表皮形成有序的汽化小孔，激光束穿透至真皮层，启动皮肤的损伤修复机制，有效刺激新的胶原纤维合成及胶原重塑、促进表皮再生，从而达到修复和改善皮肤的效果，使皮肤紧致细腻富有弹性。用于痘坑的治疗"
+            },
+            {
+              "id": "sandwich_treatment",
+              "name": "三明治祛痘嫩肤",
+              "price": {
+                "single": 1380,
+                "package_3": 2980
+              },
+              "description": "微痛，但是效果特别好，需要配合终点反应多层促渗祛痘抗炎，水杨酸还可以通过促进角质层的脱落，有助于提高其他护肤品中活性成分的渗透和吸收。"
+            },
+            {
+              "id": "gold_microneedle",
+              "name": "黄金微针4.0-病症（绝缘/非绝缘）",
+              "price": {
+                "single": 1680,
+                "package_3": 4580
+              },
+              "description": "射频微针穿刺至真皮层后，射频能量直接加热皮脂腺组织（温度可达50-60℃），抑制皮脂腺细胞活性，减少油脂分泌，从根源上降低痤疮复发风险。高温可杀灭部分痤疮丙酸杆菌，同时油脂减少削弱细菌繁殖环境。射频热能刺激真皮层胶原蛋白收缩（即刻紧致效果）并激活成纤维细胞，持续促进胶原和弹性纤维新生，逐步填充凹陷性痘坑"
+            }
+          ]
+        },
+        {
+          "id": "combo_packages",
+          "name": "痘清清系列",
+          "items": [
+            {
+              "id": "acne_clear_a",
+              "name": "痘清清A",
+              "components": [
+                "1565点阵 / 1550点阵*1次",
+                "博乐达超分子水杨酸*1次"
+              ],
+              "price": {
+                "single": 980,
+                "package_3": 2580
+              },
+              "description": "深浅层的结合，通过光热杀菌以及促进身体修复的作用和水杨酸的消炎控油作用，综合改善痘肌问题。1次有明显效果，建议3次疗程治疗"
+            },
+            {
+              "id": "acne_clear_b",
+              "name": "痘清清B",
+              "components": [
+                "芬生源208抗痘再生瓶",
+                "博乐达超分子水杨酸",
+                "OPT光子/1565/CO2点阵激光*1次"
+              ],
+              "price": {
+                "single": 1280,
+                "package_3": 2980
+              },
+              "description": "可以单次进行完3项治疗，微针可以将抗炎抑菌成分导入皮下，同时激光可以促进胶原再生于组织修复，水杨酸也有祛痘抗炎效果，三种有效治疗结合，起到祛痘控油的总和效果"
+            },
+            {
+              "id": "acne_clear_c",
+              "name": "痘清清C",
+              "components": [
+                "博乐达超分子水杨酸*1次",
+                "黄金超光子/1565/CO2*1次",
+                "伊肤泉战痘套组/芬生源祛痘套组*1次",
+                "LED/湿敷/针清*1次"
+              ],
+              "price": {
+                "single": 2580,
+                "package_3": 5980
+              },
+              "description": "和上一组原理相同，不同的是伊肤泉战痘套组是一个祛痘套组，包含抗炎抑菌成分与组织修复成分，在治疗痘肌的同时可以促进组织恢复更为高效"
+            },
+            {
+              "id": "pore_acne_scar_1",
+              "name": "毛孔痘坑卡1.0",
+              "components": [
+                "剥脱点阵激光",
+                "博乐达超分子水杨酸",
+                "小针刀剥离",
+                "针清/照光"
+              ],
+              "price": {
+                "single": 2580,
+                "package_3": 5980
+              },
+              "description": "二氧化碳剥脱点阵，磨削表皮组织同时刺激深层胶原再生，改善凹陷性痘坑。小针刀可以通过玻璃来改善一些黏连的组织，让皮肤更快恢复平整"
+            },
+            {
+              "id": "pore_acne_scar_3",
+              "name": "毛孔痘坑卡3.0",
+              "components": [
+                "黄金微针（非绝缘）*1",
+                "CO2点阵激光*1",
+                "伊肤泉战痘套组/芬生源祛痘套组*1次",
+                "博乐达超分子水杨酸*2",
+                "小针刀剥离*2次",
+                "针清/照光*6次"
+              ],
+              "price": {
+                "single": 3980,
+                "package_3": 8800
+              },
+              "description": "综合套餐方案，医生全方案定制，结合多种针对痘肌问题，严重的痘坑问题可以选择这一项"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "neck_antiaging",
+      "name": "颈部抗衰",
+      "description": "改善颈纹、颈部松弛，让颈部显得修长",
+      "items": [
+        {
+          "id": "hito_1_5",
+          "name": "嗨体1.5",
+          "price": 980,
+          "description": "经典的颈纹填充，改善颈纹效果较好，颈纹较为严重可能需要2-3支的嗨体1.5来改善。温馨提示：3次填充后累计注射有起棱的风险。",
+          "category": "颈纹"
+        },
+        {
+          "id": "hito_combo",
+          "name": "嗨体1.5+2.5",
+          "price": 1380,
+          "description": "嗨体1.5+2.5是比较好的颈部抗衰产品，嗨体1.5可以较好的改善敬畏、嗨体2.5则用来改善颈部皮肤的老化和细纹的问题，两者结合综合改善颈部纹路。",
+          "category": "颈纹"
+        },
+        {
+          "id": "runzhi_gege",
+          "name": "润致格格针",
+          "price": 2580,
+          "specification": "2ml/支",
+          "description": "华熙生物新出品的润致格格针，2ml/支，单次填充的效果不如嗨体1.5的效果明显需要疗程治疗，但是润致格格针的优点是多次填充后不会有起棱的情况，适合长期需要颈纹注射的宝子。",
+          "category": "颈纹"
+        },
+        {
+          "id": "vesera_neck",
+          "name": "薇瑟拉黄金微针-颈部",
+          "price": 1980,
+          "specification": "1000发/个治疗头",
+          "description": "负压吸附，射频能量用于改善颈部皮肤紧致度，尤其是年龄稍大颈部出现一些松弛情况的人群可以选择。",
+          "category": "颈部松弛"
+        },
+        {
+          "id": "peninsula_neck",
+          "name": "半岛黄金微针五代颈部",
+          "price": 4980,
+          "specification": "1200发/个治疗头",
+          "description": "负压吸附，射频能量用于改善颈部皮肤紧致度，尤其是年龄稍大颈部出现一些松弛情况的人群可以选择。",
+          "category": "颈部松弛"
+        },
+        {
+          "id": "shoulder_slimming",
+          "name": "瘦肩针",
+          "price": {
+            "min": 1680,
+            "max": 2680
+          },
+          "description": "通过弱化斜方肌来提升整体的肩颈线条，让颈部看起来修长",
+          "category": "颈部松弛"
+        },
+        {
+          "id": "diamond_double_chin",
+          "name": "钻石超塑双下巴+下颌缘",
+          "price": 1280,
+          "description": "通过减少下颌缘和双下巴的臃肿之感来提升颈部线条让颈部看下来修长",
+          "category": "颈部松弛"
+        }
+      ]
+    },
+    {
+      "id": "antiaging_devices",
+      "name": "抗衰设备",
+      "description": "各类光电设备用于皮肤紧致、提升、改善肤质",
+      "subcategories": [
+        {
+          "id": "photorejuvenation",
+          "name": "光子嫩肤",
+          "items": [
+            {
+              "id": "opt",
+              "name": "OPT/全能光子（全模式）",
+              "price": 380,
+              "unit": "次",
+              "function": "改善肤色不均、淡化色斑、收缩毛孔、改善肤质"
+            },
+            {
+              "id": "aopt",
+              "name": "AOPT超光子（全模式）",
+              "price": 580,
+              "unit": "次",
+              "function": "改善肤色不均、淡化色斑、收缩毛孔、改善肤质"
+            },
+            {
+              "id": "gold_photon",
+              "name": "黄金超光子（全模式）",
+              "price": 980,
+              "unit": "次",
+              "function": "改善肤色不均、淡化色斑、收缩毛孔、改善肤质"
+            }
+          ]
+        },
+        {
+          "id": "fractional_laser",
+          "name": "点阵激光",
+          "items": [
+            {
+              "id": "fractional_1565_face",
+              "name": "1565非剥脱点阵-全脸（黄金）",
+              "price": 1980,
+              "unit": "次",
+              "function": "改善痘坑痘印、细纹、毛孔粗大"
+            },
+            {
+              "id": "fractional_1565_local",
+              "name": "1565非剥脱点阵-局部",
+              "price": 680,
+              "unit": "次",
+              "function": "改善痘坑痘印、细纹、毛孔粗大"
+            },
+            {
+              "id": "co2_face",
+              "name": "CO2激光-全脸",
+              "price": 1980,
+              "unit": "次",
+              "function": "全脸换肤、改善皱纹、疤痕、色素问题"
+            },
+            {
+              "id": "co2_local",
+              "name": "CO2激光-局部",
+              "price": 980,
+              "unit": "次",
+              "function": "全脸换肤、改善皱纹、疤痕、色素问题"
+            },
+            {
+              "id": "co2_mole",
+              "name": "CO2激光-点疣",
+              "price": 200,
+              "unit": "颗",
+              "function": "去除疣体"
+            }
+          ]
+        },
+        {
+          "id": "picosecond",
+          "name": "超皮秒",
+          "items": [
+            {
+              "id": "picosecond_face",
+              "name": "超皮秒祛斑-全脸",
+              "price": 1980,
+              "unit": "次",
+              "function": "色斑、纹身、痘印、肤色暗沉"
+            },
+            {
+              "id": "picosecond_local",
+              "name": "超皮秒祛斑-局部",
+              "price": 680,
+              "unit": "次",
+              "function": "色斑、纹身、痘印、肤色暗沉"
+            },
+            {
+              "id": "qswitch_face",
+              "name": "德国大Q",
+              "price": 1980,
+              "unit": "次",
+              "function": "色斑、纹身、痘印、肤色暗沉"
+            },
+            {
+              "id": "qswitch_local",
+              "name": "德国大Q-局部",
+              "price": 980,
+              "unit": "次",
+              "function": "色斑、纹身、痘印、肤色暗沉"
+            }
+          ]
+        },
+        {
+          "id": "rf_microneedle",
+          "name": "射频微针",
+          "items": [
+            {
+              "id": "gold_microneedle_4_rejuvenation",
+              "name": "黄金微针4.0嫩肤[800发]",
+              "price": 1980,
+              "specification": "800发",
+              "function": "最深可达皮下2.0mm，通过射频的方式刺激自身皮肤的收紧与胶原的再生，从而达到收紧皮肤，改善细纹、改善毛孔等等"
+            },
+            {
+              "id": "gold_microneedle_4_antiaging",
+              "name": "黄金微针4.0抗衰[800发]",
+              "price": 2980,
+              "specification": "800发",
+              "function": "最深可达皮下2.0mm，通过射频的方式刺激自身皮肤的收紧与胶原的再生"
+            },
+            {
+              "id": "gold_microneedle_4_eye",
+              "name": "黄金微针4.0眶周[400发]",
+              "price": 2980,
+              "specification": "400发",
+              "function": "眼周专用"
+            },
+            {
+              "id": "gold_microneedle_4_neck",
+              "name": "黄金微针4.0颈部",
+              "price": 2980,
+              "function": "颈部专用"
+            },
+            {
+              "id": "gold_microneedle_5_face",
+              "name": "黄金微针5.0面部[1200发]",
+              "price": 3980,
+              "specification": "1200发",
+              "function": "最深可达皮下3.5mm，有独特的分层技术，可以分层作用于皮肤，起到更好的紧致与提升的效果"
+            },
+            {
+              "id": "gold_microneedle_5_neck",
+              "name": "黄金微针5.0颈部[1200发]",
+              "price": 4980,
+              "specification": "1200发",
+              "function": "最深可达皮下3.5mm，有独特的分层技术"
+            },
+            {
+              "id": "gold_microneedle_5_eye",
+              "name": "黄金微针5.0眶周[600发]",
+              "price": 4980,
+              "specification": "600发",
+              "function": "最深可达皮下3.5mm，有独特的分层技术"
+            },
+            {
+              "id": "vesera_microneedle",
+              "name": "薇瑟拉黄金微针[1000发]",
+              "price": 1980,
+              "specification": "1000发",
+              "areas": ["面", "颈", "眼"],
+              "function": "最深可达皮下3.3mm，通过射频的方式刺激自身皮肤的收紧与胶原的再生"
+            }
+          ]
+        },
+        {
+          "id": "hifu",
+          "name": "超声设备",
+          "items": [
+            {
+              "id": "thermage_basic",
+              "name": "热拉提PLUS-维养版（面部）",
+              "price": 580,
+              "function": "热拉提是一款聚焦超声紧肤系统。其核心技术通过精准聚焦超声波能量，作用于皮肤深层及筋膜层，产生热效应并刺激胶原蛋白再生。可实现深层提拉、紧致轮廓及改善肤质的综合抗衰效果。"
+            },
+            {
+              "id": "thermage_pro",
+              "name": "热拉提PLUS-专业版（面部）",
+              "price": 880
+            },
+            {
+              "id": "thermage_dual",
+              "name": "热拉提PLUS-双模式版（面部）",
+              "price": 1280
+            },
+            {
+              "id": "4dpro_eye",
+              "name": "4Dpro眼部不限模式",
+              "price": 1980,
+              "function": "Fotona 4D是一款集抗衰、紧肤、塑形于一体的欧洲之星激光平台。其核心优势在于"内外联合，分层治疗"，通过Smooth、Frac3、Piano和Superficial四种不同模式"
+            },
+            {
+              "id": "4dpro_face_single",
+              "name": "4D pro单模式（面部）不含口内",
+              "price": 1280
+            },
+            {
+              "id": "4dpro_face_dual",
+              "name": "4D pro双模式紧致白（面部）",
+              "price": 1580
+            },
+            {
+              "id": "4dpro_face_full",
+              "name": "4D pro全模式（面部）",
+              "price": 4980
+            },
+            {
+              "id": "hifu_single",
+              "name": "超声炮（面部）单模式",
+              "price": 1980,
+              "function": "半岛超声炮采用微点聚集和大聚焦的方式，利用超声波能量，精准地加热皮下浅肌筋膜（SMAS筋膜层）、脂肪浅层、真皮层和表皮层"
+            },
+            {
+              "id": "hifu_single_area",
+              "name": "超声炮（单部位）全模式",
+              "price": 1980
+            },
+            {
+              "id": "hifu_face_full",
+              "name": "超声炮（面部）全模式不含双下巴、下颌缘",
+              "price": 2980
+            },
+            {
+              "id": "taixl_basic",
+              "name": "Taixl黄金炮（青春版）",
+              "price": 1980,
+              "function": "原理等同于半岛超声炮，缺点是痛感强，优点是价格较低，效果也不错"
+            },
+            {
+              "id": "taixl_full",
+              "name": "Taixl黄金炮（面部全模式）",
+              "price": 2680
+            },
+            {
+              "id": "taixl_single_area",
+              "name": "Taixl黄金炮单部位-【全模式】",
+              "price": 980
+            },
+            {
+              "id": "quti_single",
+              "name": "曲提超声刀-单部位【全模式】",
+              "price": 3800,
+              "function": "原理等同于半岛超声炮，采用弧面刀头的方式改善提升的方式，具有更强的收紧提升效果"
+            },
+            {
+              "id": "quti_face",
+              "name": "曲提超声刀-面部【全模式】",
+              "price": 8800
+            },
+            {
+              "id": "quti_neck",
+              "name": "曲提超声刀-颈部【全模式】",
+              "price": 8800
+            }
+          ]
+        },
+        {
+          "id": "thermage_plus",
+          "name": "热芙美射频抗衰",
+          "items": [
+            {
+              "id": "reforme_eye_light",
+              "name": "热芙美眼部轻度600发",
+              "price": 8800,
+              "specification": "600发"
+            },
+            {
+              "id": "reforme_eye_moderate",
+              "name": "热芙美眼部中重度900发",
+              "price": 12800,
+              "specification": "900发"
+            },
+            {
+              "id": "reforme_face_light",
+              "name": "热芙美面部600发-轻度",
+              "price": 8800,
+              "specification": "600发"
+            },
+            {
+              "id": "reforme_face_moderate",
+              "name": "热芙美面部900发-中度",
+              "price": 12800,
+              "specification": "900发"
+            },
+            {
+              "id": "reforme_face_severe",
+              "name": "热芙美面部1200发-重度",
+              "price": 15800,
+              "specification": "1200发"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "perioral_rejuvenation",
+      "name": "口周年轻化",
+      "description": "改善法令纹、口角囊袋、唇部精调等口周问题",
+      "subcategories": [
+        {
+          "id": "lip_refinement",
+          "name": "唇部精细化调整",
+          "items": [
+            {
+              "id": "lip_filler",
+              "name": "玻尿酸唇部精雕",
+              "price": {
+                "min": 1980,
+                "max": 15000
+              },
+              "description": "通过玻尿酸填充来改善唇部形态，让唇部看起来丰满年轻。一般建议1-3支，项目价格和选择的材料有关"
+            },
+            {
+              "id": "lip_corner_filler",
+              "name": "玻尿酸注射调整嘴角上扬",
+              "price": {
+                "min": 1980,
+                "max": 15000
+              },
+              "description": "通过玻尿酸填充来改善唇角的形态，让唇角看起来自然上扬，增加面部亲和力"
+            },
+            {
+              "id": "lip_corner_botox",
+              "name": "肉毒素唇角上扬术",
+              "price": {
+                "min": 680,
+                "max": 2980
+              },
+              "description": "通过注射肉毒素来调整唇部形体，放松唇部向下牵拉的肌肉，让嘴角看起来有自然上扬的效果"
+            },
+            {
+              "id": "philtrum_filler",
+              "name": "玻尿酸人中窝精修",
+              "price": {
+                "min": 2000,
+                "max": 5000
+              },
+              "specification": "一般建议0.5ml",
+              "description": "通过玻尿酸填充来改善人中脊的丰满程度，让人中窝看起来更立体，更为幼态"
+            },
+            {
+              "id": "fotona_intraoral",
+              "name": "Fotona 4D口内提升",
+              "price": 980,
+              "description": "通过特定波长的铒激光，从口腔内部对黏膜及深层软组织进行精准加热，从而实现深层次紧致提拉，具有改善法令纹、提升嘴角与下颌轮廓的效果"
+            }
+          ]
+        },
+        {
+          "id": "nasolabial_fold",
+          "name": "改善法令纹",
+          "items": [
+            {
+              "id": "diamond_mid_lower_face",
+              "name": "钻石超塑中下面部",
+              "price": 1280,
+              "coverage": "苹果+下颌缘",
+              "description": "主要改善肉肉型法令纹，通过钻石超塑减少脂肪堆积，改善法令纹"
+            },
+            {
+              "id": "perioral_muscle_adjustment",
+              "name": "口周肌肉微调【美国】",
+              "price": 980,
+              "description": "改善肌肉型法令纹，如果是天生型法令纹，笑起来很明显，具有一定可能是肌肉型，通过放松口周肌肉改善肌肉型法令纹"
+            },
+            {
+              "id": "quti_mid_lower",
+              "name": "曲提超声刀中下面部",
+              "price": 4800,
+              "description": "改善衰老型法令纹，收紧筋膜，压实苹果肌，改善皮肤松弛下垂，淡化法令纹"
+            },
+            {
+              "id": "nasal_base_filler",
+              "name": "鼻基底填充",
+              "price": {
+                "min": 1980,
+                "max": 9800
+              },
+              "specification": "一般建议1-2支",
+              "description": "改善天生鼻基底凹陷导致的法令纹，选择硬度比较高的玻尿酸进行鼻基底的抬高"
+            },
+            {
+              "id": "mid_face_ligament_lift",
+              "name": "面中部韧带提升",
+              "price": {
+                "min": 1980,
+                "max": 9800
+              },
+              "specification": "一般建议2-3支",
+              "description": "改善松弛性法令纹，采用拉伸力和硬度都比较好的玻尿酸进行韧带的提升紧致提拉中面部皮肤"
+            },
+            {
+              "id": "perioral_tightening",
+              "name": "口周轮廓收紧",
+              "price": {
+                "min": 4800,
+                "max": 16800
+              },
+              "specification": "一般建议1-2支",
+              "description": "改善松弛、皮肉有分离感的法令纹问题，选择含有再生、收紧效果的产品，比如童颜针（聚左旋乳酸PLLA）等"
+            }
+          ]
+        },
+        {
+          "id": "marionette_lines",
+          "name": "口角囊袋",
+          "items": [
+            {
+              "id": "diamond_marionette",
+              "name": "钻石超塑口角囊袋",
+              "price": 980,
+              "description": "用于减轻口角囊袋的问题，需要注意的是钻石超塑单次改善效果有限，建议疗程治疗，3-6次"
+            },
+            {
+              "id": "hifu_mid_lower",
+              "name": "超声收紧中下面部",
+              "price": {
+                "min": 1680,
+                "max": 3680
+              },
+              "description": "采用超声设备比如超声炮、曲提超声刀，收紧筋膜提升面部皮肤来改善口角囊袋"
+            },
+            {
+              "id": "rf_mid_lower",
+              "name": "射频收紧中下面部",
+              "price": {
+                "min": 1680,
+                "max": 8800
+              },
+              "description": "采用射频设备，比如热拉提、热芙美，通过热量刺激收紧皮肤，改善口角囊袋"
+            },
+            {
+              "id": "facial_ligament_lift",
+              "name": "面部韧带提升",
+              "price": {
+                "min": 1980,
+                "max": 9800
+              },
+              "specification": "一般建议2-3支",
+              "description": "口角囊袋一般是面部松弛下垂导致的，皮肤和组织堆积到口角囊袋部位，所以需要配合提升方案进行改善"
+            }
+          ]
+        },
+        {
+          "id": "jawline_definition",
+          "name": "下颌线不清晰",
+          "items": [
+            {
+              "id": "diamond_jawline",
+              "name": "钻石超塑【下颌缘+双下巴】",
+              "price": 1280,
+              "description": "主要改善脂肪、松弛问题导致的下颌线不清晰，钻石超塑的【爆脂模式】可以改善脂肪数量，让下颌缘变瘦。【收紧模式】可以收紧面部皮肤来紧致面部。疗程3次起步，6次以上会有较为理想的效果"
+            },
+            {
+              "id": "platysma_relaxation",
+              "name": "下颌缘/颈阔肌放松",
+              "price": {
+                "min": 1680,
+                "max": 4800
+              },
+              "description": "通过注射的方式来放松我们面部向下拉的肌肉，这样就可以体现向上拉的肌肉的力量，就有面部提升、下颌缘更清晰的效果"
+            },
+            {
+              "id": "jawline_liposuction",
+              "name": "下颌缘精细吸脂",
+              "price": 4800,
+              "description": "通过吸脂来改善下颌缘的脂肪含量，减少下颌缘的肉感，让骨感变得更加清晰。优点是单次改善问题、效果明显、无需疗程，缺点是需要5-7的恢复期，术后需要带弹力面罩"
+            },
+            {
+              "id": "jawline_lipo_rf",
+              "name": "下颌缘吸脂+黄金微雕",
+              "price": 6800,
+              "description": "增加了黄金精雕这个设备，黄金精雕又称皮下热玛吉，通过射频的方式来改善面部的松弛"
+            },
+            {
+              "id": "jawline_ha_injection",
+              "name": "玻尿酸下颌线注射",
+              "price": {
+                "min": 8000,
+                "max": 12000
+              },
+              "specification": "一般双侧建议4-6支",
+              "description": "对于天生下颌角发育就不是很好的求美者，可以通过注射较硬的玻尿酸来重塑下颌线的轮廓"
+            }
+          ]
+        },
+        {
+          "id": "double_chin",
+          "name": "双下巴臃肿",
+          "items": [
+            {
+              "id": "sca_ablation",
+              "name": "SCA复合消融",
+              "price": 4800,
+              "description": "通过注射消融针来改善双下巴比较臃肿的问题，但是没有紧致的效果，如果双下巴臃肿并且松弛建议配合一些收紧的仪器设备"
+            },
+            {
+              "id": "chin_liposuction",
+              "name": "双下巴精细吸脂",
+              "price": 4800,
+              "description": "通过吸脂来改善下颌缘的脂肪含量，减少下颌缘的肉感，让骨感变得更加清晰，改变双下巴的臃肿感"
+            },
+            {
+              "id": "chin_lipo_rf",
+              "name": "双下巴吸脂+黄金微雕",
+              "price": 6800,
+              "description": "增加了黄金精雕这个设备，黄金精雕又称皮下热玛吉，通过射频的方式来改善面部的松弛"
+            }
+          ]
+        },
+        {
+          "id": "perioral_combo",
+          "name": "口周抗衰综合套餐",
+          "items": [
+            {
+              "id": "perioral_comprehensive",
+              "name": "口周抗衰综合套餐",
+              "price": 18800,
+              "components": [
+                "润致五号/润致natural*4支（鼻基底/下巴）",
+                "普丽妍童颜*1支",
+                "口周肌肉精调*1次（唇角上扬/法令纹淡化/颏肌放松）",
+                "乐提葆瘦脸+腮腺调整*1次100U",
+                "曲提中下面部（口角、苹果肌、下颌缘）*1次",
+                "Fotona 4D口内模式"
+              ],
+              "description": "口周问题的综合改善，如果是比较复杂的口周问题，可以选择这种方案，治疗+日常保养都是非常省心的方案"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sensitive_skin",
+      "name": "敏感肌修复",
+      "description": "针对敏感肌、玫瑰痤疮等问题肌肤的修复治疗",
+      "subcategories": [
+        {
+          "id": "basic_repair",
+          "name": "修复单品",
+          "items": [
+            {
+              "id": "led_compress",
+              "name": "LED/湿敷/黄金射频脱敏",
+              "subtitle": "急性期修复",
+              "price": {
+                "single": 99,
+                "package_3": 299
+              }
+            },
+            {
+              "id": "gold_photon_repair",
+              "name": "黄金超光子光调修复",
+              "price": {
+                "single": 380,
+                "package_3": 880
+              },
+              "description": "特定的能量，超光子的光调模式通过低能量光生物调节，从抗炎、屏障修复、血管稳定到促进皮肤自我修复等方面改善敏感肌，尤其适合血管神经性敏感和炎症后屏障脆弱人群"
+            },
+            {
+              "id": "micro_botox",
+              "name": "全脸微滴舒缓",
+              "components": [
+                "衡力50单位",
+                "3ml克拉赫本大分子透明质酸水光1支"
+              ],
+              "price": 1280,
+              "description": "微滴肉毒毒素放松面部肌肉的浅层纤维，并使致密真皮中的液体潴留，带来面部皮肤光亮放松的表现，并且抑制汗液以及皮脂分泌，从而改善皮肤纹理光泽"
+            },
+            {
+              "id": "fo_cell_energy",
+              "name": "FO细胞动能素1+1双子瓶",
+              "components": [
+                "胶原复合物5ml/瓶：含有成分I型胶原25mg、谷胱甘肽25mg、透明质酸50mg",
+                "细胞动能素2g/瓶：纳米级细胞动能素2g"
+              ],
+              "price": {
+                "single": 580,
+                "package_3": 1380
+              },
+              "description": "两支产品组合，可以在一定程度上起到修复的效果，对于不是很严重的敏感肌、炎症性肌肤有比较好的修复退红效果"
+            },
+            {
+              "id": "exosome_mask",
+              "name": "乔洛施AI外泌体冻膜",
+              "price": {
+                "single": 980,
+                "package_3": 2580
+              },
+              "description": "镇静修复，适合光电等项目术后皮肤热、痛、红肿、痒等创面炎性反应，术后反黑反黄的人群"
+            },
+            {
+              "id": "basic_repair_injection",
+              "name": "普丽兰婴儿针3ml/海兰提斯·蓝瓶5g/易可美3ml",
+              "price": 1980,
+              "description": "基础修复型，对于屏障、炎症问题有综合改善效果。具体选择哪一款根据治疗需求，医生进行搭配"
+            },
+            {
+              "id": "antiaging_repair_injection",
+              "name": "乔洛施AR-2ml/芮娜塔17型胶原60mg/诗婉妮外泌体3ml",
+              "price": 2980,
+              "description": "抗衰修复型，尤其是针对30+以上出现轻度衰老问题的人员，因为自身代谢修复能力变差而导致的皮肤问题，不仅有修复效果，而且对于衰老的组织有一定的滋养年轻化的效果"
+            }
+          ]
+        },
+        {
+          "id": "repair_packages",
+          "name": "敏肌修复全方案",
+          "items": [
+            {
+              "id": "moonlight_repair_a",
+              "name": "白月光脱敏抗衰A",
+              "components": [
+                "射频微电修复*1次",
+                "黄金超光子全修复*1次",
+                "普丽兰（动能素）*1支/易可美*1支/海兰提斯*1支"
+              ],
+              "price": {
+                "single": 2980,
+                "package_3": 7980
+              },
+              "description": "低能射频温和重建肌底结构，修复问题肌肤以及精准调节防御屏障同时配合屏障修复微针导入进一步修复屏障，更适合30岁以下的敏感肌人群；适合轻度敏感玫瑰痤疮"
+            },
+            {
+              "id": "moonlight_repair_b",
+              "name": "白月光脱敏抗衰B",
+              "components": [
+                "射频微电修复*1次",
+                "黄金超光子全修复*1次",
+                "乔洛施AR*1支/保斯登壳聚糖瀑布13ml/17型胶原60mg"
+              ],
+              "price": {
+                "single": 3580,
+                "package_3": 9800
+              },
+              "description": "外泌体/PDRN/17型胶原，都是具有抗衰作用的修复产品。外泌体针对细胞衰老/PDRN适用于底层炎症/17型胶原作用于基底膜起到抗衰修复的效果，适合30+以上的敏肌人群；适合敏感肌玫瑰痤疮复合其他轻微问题肌如色斑、痤疮等"
+            },
+            {
+              "id": "moonlight_repair_c",
+              "name": "白月光强韧修复C",
+              "components": [
+                "射频微电修复*1次",
+                "黄金超光子全修复*1次",
+                "思伊美水光",
+                "全脸微滴舒缓",
+                "普丽兰婴儿针/乔洛施AR/17型胶原60mg"
+              ],
+              "price": {
+                "single": 3980,
+                "package_3": 10800
+              },
+              "description": "适用于复杂的肌肤问题，医生根据具体情况搭配方案，适合中重度敏感肌肤玫瑰痤疮符合其他问题肌肤如色斑、痤疮、肤质粗糙等，通过光电联合多层次多手段美塑疗法综合强效修复改善复杂问题肌肤"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "facial_contouring",
+      "name": "内外轮廓年轻化",
+      "description": "面部立体度塑形、凹陷填充、轮廓调整",
+      "subcategories": [
+        {
+          "id": "facial_lifting",
+          "name": "全脸轮廓微调",
+          "items": [
+            {
+              "id": "british_lift",
+              "name": "英伦大提升",
+              "price": 4800,
+              "description": "通过注射肉毒素来放松面部向下拉的肌肉，从而达到上面部微调上扬的效果，让面部看起来自然上扬"
+            }
+          ]
+        },
+        {
+          "id": "eye_contouring",
+          "name": "眼周立体度提升",
+          "items": [
+            {
+              "id": "glabella_triangle",
+              "name": "眉心三角区、双C线立体度提升",
+              "price": {
+                "min": 10000,
+                "max": 20000
+              },
+              "specification": "一般建议剂量1-2ml",
+              "description": "通过注射玻尿酸、骨性材料等方式，对山根、眉心三角区进行立体的塑形，对于该部位的调整应该选择吸水性低、硬度较高的注射材料，保证该部位的精致度，可以推荐超序之美、瑞蓝丽瑅丽多等材料"
+            },
+            {
+              "id": "brow_bone",
+              "name": "眉弓立体度提升",
+              "price": {
+                "min": 5000,
+                "max": 15000
+              },
+              "specification": "一般建议1-2ml",
+              "description": "通过注射玻尿酸、骨性材料等方式，对山根、眉弓区进行立体的塑形"
+            }
+          ]
+        },
+        {
+          "id": "nose_contouring",
+          "name": "鼻部立体度提升",
+          "items": [
+            {
+              "id": "nose_bridge",
+              "name": "塌鼻梁改善",
+              "price": {
+                "min": 5000,
+                "max": 15000
+              },
+              "specification": "一般建议1-2ml",
+              "description": "通过注射玻尿酸、骨性材料等方式，对山根进行立体的塑形"
+            },
+            {
+              "id": "nose_tip",
+              "name": "鼻头改善",
+              "price": {
+                "min": 5000,
+                "max": 15000
+              },
+              "specification": "一般建议1-2ml",
+              "description": "通过注射玻尿酸、骨性材料等方式，对鼻头进行立体的塑形"
+            },
+            {
+              "id": "nasal_base",
+              "name": "鼻基底凹陷调整",
+              "price": {
+                "min": 1980,
+                "max": 9800
+              },
+              "specification": "一般建议1-2ml",
+              "description": "改善天生鼻基底凹陷导致的法令纹，选择硬度比较高的玻尿酸进行鼻基底的抬高"
+            }
+          ]
+        },
+        {
+          "id": "facial_filling",
+          "name": "面部凹陷填充",
+          "items": [
+            {
+              "id": "forehead_sculptra",
+              "name": "童颜注射填充额头",
+              "price": {
+                "min": 10000,
+                "max": 20000
+              },
+              "description": "额头是骨性部位，可以选择童颜填充，有一定微微增容的效果，可以轻微改善额头不饱满的问题，并且效果相对自然"
+            },
+            {
+              "id": "forehead_fat",
+              "name": "脂肪填充额头",
+              "price": 6800,
+              "description": "通过手术的方式抽取自体大腿、腹部的脂肪，经过处理净化之后填充到额头，改善额头不饱满，但是不建议选择，因为额头是骨性部位，脂肪填充会有馒化的问题"
+            },
+            {
+              "id": "ha_facial_filling",
+              "name": "玻尿酸注射填充",
+              "areas": ["太阳穴", "面颊", "下巴"],
+              "price": {
+                "min": 10000,
+                "max": 30000
+              },
+              "dosage": {
+                "temple": "双侧4-8ml",
+                "cheek": "1-2ml",
+                "chin": "2-4ml"
+              },
+              "description": "采用玻尿酸选择适合的部位进行填充，比如太阳穴可以选择相对软一些的玻尿酸，面颊也要选择软一下，身体相容性好一些的玻尿酸品牌，下巴则可以选择偏硬的产品"
+            },
+            {
+              "id": "facial_fat_filling",
+              "name": "面部脂肪填充",
+              "price": {
+                "min": 5000,
+                "max": 15000
+              },
+              "description": "通过手术的方式抽取自体大腿、腹部的脂肪，经过处理净化之后填充到太阳穴、面颊、下巴等部位改善下巴问题"
+            }
+          ]
+        },
+        {
+          "id": "chin_enhancement",
+          "name": "下巴短缩",
+          "items": [
+            {
+              "id": "mentalis_relaxation",
+              "name": "颏肌放松",
+              "price": {
+                "min": 680,
+                "max": 1980
+              },
+              "description": "颏肌放松指的是部分人先天的颏肌紧张，颏肌紧张收缩会产生核桃纹，而且使下巴软组织进一步向上向后收缩，注射肉毒素可以放松颏肌，有一定的改善下巴后缩的效果"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pigmentation",
+      "name": "色斑治疗",
+      "description": "针对各类色斑问题的综合治疗方案",
+      "subcategories": [
+        {
+          "id": "spot_removal_single",
+          "name": "祛斑单品",
+          "items": [
+            {
+              "id": "picosecond_spot",
+              "name": "超皮秒祛斑",
+              "price": 1680,
+              "description": "经典祛斑项目，祛斑快准狠，但是针对比较复杂的色斑问题，需要搭配祛斑的中胚层产品一起使用"
+            },
+            {
+              "id": "qswitch_spot",
+              "name": "调Q激光祛斑",
+              "price": 1280,
+              "description": "调Q激光是治疗各类色素性皮损的经典技术，通过极短的纳秒级脉冲，瞬间释放高能量激光，将色素击碎成微小的碎屑，从而色素被皮肤代谢"
+            },
+            {
+              "id": "gold_photon_spot",
+              "name": "黄金超光子祛斑",
+              "price": 680,
+              "description": "光子嫩肤对于表浅型色斑（如雀斑、晒斑）效果显著，但对于太田痣、颧部褐青色痣等真皮深层色斑效果有限，后者通常需要调Q激光或皮秒激光来处理"
+            }
+          ]
+        },
+        {
+          "id": "spot_serums",
+          "name": "祛斑中胚层产品",
+          "items": [
+            {
+              "id": "basic_whitening",
+              "name": "纪美禾安白瓶/FO细胞动能素",
+              "price": 680,
+              "level": "基础",
+              "description": "较为基础的祛斑中胚产品，可以一定程度淡化色斑"
+            },
+            {
+              "id": "whitening_products",
+              "name": "芬生源月光瓶/富勒烯炫白/童颜龄滤光",
+              "price": 1680,
+              "level": "美白",
+              "description": "美白祛斑，针对相对表浅的色斑问题，主要是美白的效果"
+            },
+            {
+              "id": "repair_whitening",
+              "name": "富勒烯净白/黄金元祛斑8ml/焕妮秀高浓度三文鱼/诗婉妮白月光/芮娜塔17型胶原",
+              "price": 2380,
+              "level": "祛斑+修复",
+              "description": "祛斑+修复成分组合，针对一般难度的色斑问题"
+            },
+            {
+              "id": "stubborn_spot",
+              "name": "滢祎美55ml/瑞帕特5ml/费丝欧俪5ml",
+              "price": 3980,
+              "level": "顽固色斑",
+              "description": "有针对性的色斑配方，主要针对顽固、复杂色斑问题"
+            }
+          ]
+        },
+        {
+          "id": "spot_packages",
+          "name": "色斑类套餐",
+          "items": [
+            {
+              "id": "spot_combo",
+              "name": "光能祛斑卡",
+              "components": [
+                "黄金超光子",
+                "超皮秒",
+                "乔洛施AI/FO细胞动能素"
+              ],
+              "price": 1280,
+              "description": "综合改善色斑问题，搭配产品起到1+1+1大于3的效果"
+            },
+            {
+              "id": "spot_package_1",
+              "name": "①号淡斑卡",
+              "specification": "6套-12次卡",
+              "components": [
+                "黄金超光子AOPT/调Q/超皮秒/超分子水杨酸【≤12次】",
+                "芬生源月光瓶/富勒烯炫白/童颜龄滤光*6支",
+                "送基础水光2支"
+              ],
+              "price": 12800,
+              "description": "该项目包含光电祛斑、水杨酸祛斑以及美白型产品，可以综合起到改善色斑的效果"
+            },
+            {
+              "id": "spot_package_2",
+              "name": "②号祛斑卡",
+              "specification": "6套-12次卡",
+              "components": [
+                "黄金超光子AOPT/调Q/超皮秒/1565点阵/超皮秒/超分子水杨酸【≤12次】",
+                "富勒烯净白/黄金元祛斑8ml/焕妮秀高浓度三文鱼/诗婉妮白月光/芮娜塔17型胶原*6支"
+              ],
+              "price": 16800,
+              "description": "该项目，包含了光电祛斑、水杨酸祛斑，以及具有修复效果的祛斑产品，可以修复皮肤组织老化代谢色素慢等等问题，对于30+以前的色斑人群有更好的效果"
+            },
+            {
+              "id": "spot_package_3",
+              "name": "③号净斑卡",
+              "specification": "6套-12次卡",
+              "components": [
+                "黄金超光子AOPT/调Q/超皮秒/1566点阵/超分子水杨酸【≤12次】",
+                "黄金微针五代*1次",
+                "滢祎美55ml/瑞帕特5ml/费丝欧俪5ml*6支",
+                "衡力1支【50U】",
+                "送基础水光2支"
+              ],
+              "price": 26800,
+              "description": "该项目是祛斑的王牌项目，可以处理疑难复杂的色斑问题，对于顽固的黄褐斑、复杂斑点有很好的改善效果，需要疗程治疗，具体使用产品需要医生综合评估"
+            }
+          ]
+        },
+        {
+          "id": "dermal_spot",
+          "name": "真皮斑/纹身/太田痣",
+          "items": [
+            {
+              "id": "qswitch_fractional",
+              "name": "调Q祛斑+二氧化碳点阵2*2CM²",
+              "price": {
+                "single": 1280,
+                "package_3": 2980,
+                "package_6": 4980
+              }
+            },
+            {
+              "id": "picosecond_fractional",
+              "name": "超皮秒祛斑+二氧化碳点阵2*2CM²",
+              "price": {
+                "single": 1980,
+                "package_3": 4980,
+                "package_6": 4980
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chemical_peels",
+      "name": "刷酸治疗",
+      "description": "水杨酸、牛奶酸等化学焕肤项目",
+      "items": [
+        {
+          "id": "sandwich_peel",
+          "name": "三明治疗法",
+          "price": 1580
+        },
+        {
+          "id": "salicylic_face",
+          "name": "超分子水杨酸焕肤（面部单次）",
+          "price": 699
+        },
+        {
+          "id": "salicylic_nose",
+          "name": "超分子水杨酸焕肤（鼻头单次）",
+          "price": 299
+        },
+        {
+          "id": "salicylic_neck",
+          "name": "超分子水杨酸焕肤（颈部单次）",
+          "price": 699
+        },
+        {
+          "id": "salicylic_nose_only",
+          "name": "鼻子",
+          "price": 299
+        },
+        {
+          "id": "salicylic_chin",
+          "name": "下颏",
+          "price": 299
+        },
+        {
+          "id": "salicylic_forehead",
+          "name": "额头",
+          "price": 399
+        },
+        {
+          "id": "salicylic_t_zone",
+          "name": "额头、鼻子、下颏大T区",
+          "price": 580
+        },
+        {
+          "id": "milk_acid_body",
+          "name": "牛奶酸身体部位",
+          "areas": [
+            {
+              "name": "手部单次",
+              "price": 680,
+              "upgrade": 500
+            },
+            {
+              "name": "颈部单次",
+              "price": 680,
+              "upgrade": 500
+            },
+            {
+              "name": "腋窝单次",
+              "price": 980,
+              "upgrade": 500
+            },
+            {
+              "name": "手肘/单次",
+              "price": 980,
+              "upgrade": 500
+            },
+            {
+              "name": "膝盖/单次",
+              "price": 980,
+              "upgrade": 500
+            },
+            {
+              "name": "前胸单次（不包含乳头）",
+              "price": 1280,
+              "upgrade": 800
+            },
+            {
+              "name": "双臀单次",
+              "price": 1280,
+              "upgrade": 800
+            },
+            {
+              "name": "双臂单次（内加外含关节）",
+              "price": 1980,
+              "upgrade": 800
+            },
+            {
+              "name": "外臂单次",
+              "price": 1580,
+              "upgrade": 800
+            },
+            {
+              "name": "小腿单次",
+              "price": 1680,
+              "upgrade": 800
+            },
+            {
+              "name": "大腿单次",
+              "price": 1980,
+              "upgrade": 800
+            },
+            {
+              "name": "后背单次",
+              "price": 2980,
+              "upgrade": 1200
+            },
+            {
+              "name": "1/2背部单次",
+              "price": 1980,
+              "upgrade": 800
+            },
+            {
+              "name": "全身畅刷",
+              "price": 5980,
+              "upgrade": 2980
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eye_rejuvenation",
+      "name": "眼周年轻化",
+      "description": "改善眼周细纹、泪沟、眼袋、黑眼圈等问题",
+      "subcategories": [
+        {
+          "id": "eye_wrinkles",
+          "name": "改善眼周细纹",
+          "items": [
+            {
+              "id": "collagen_fine_lines",
+              "name": "新肤源胶原细纹针",
+              "price": 1680,
+              "specification": "建议单侧1-2支，双侧2-4支/每次",
+              "description": "锦波生物人源化三型胶原，滋养眼周皮肤，改善眼周细纹"
+            },
+            {
+              "id": "fetherlift_collagen",
+              "name": "费丝欧俪16.5mg胶原灌注",
+              "price": 3980,
+              "specification": "16.5mg一型胶原，5ml",
+              "description": "大剂量不仅可以改善眶下细纹，同时可以滋养眶周韧带"
+            },
+            {
+              "id": "vycross_collagen",
+              "name": "薇旑美极纯胶原细纹针4mg",
+              "price": 2380,
+              "note": "限购首支",
+              "description": "主要针对真皮层，通过稳定的三螺旋结构补充真皮层中流失的胶原蛋白，刺激成纤维细胞活性"
+            },
+            {
+              "id": "vycross_colnet",
+              "name": "薇旑美colnet胶原网12mg",
+              "price": 9800,
+              "description": "colnet胶原网主要是塑造更立体的胶原网结构，通过致密的纤维结构支撑和补给影响多个层次"
+            },
+            {
+              "id": "restylane_eye",
+              "name": "[进口]瑞蓝唯瑅1.0ml眶周提亮",
+              "price": 3980,
+              "specification": "单次1-2支",
+              "description": "多层多点眶周细纹的精细填充，改善细纹提亮眶周"
+            },
+            {
+              "id": "periorbital_microdrop",
+              "name": "眶周微滴改善细纹",
+              "price": {
+                "min": 680,
+                "max": 2680
+              },
+              "description": "通过多点、微量的注射方式，有效减弱眼轮匝肌的过度收缩，从而平滑动态性鱼尾纹。改善下睑细纹，并打造隐约的"卧蚕"，使眼神更柔和明亮"
+            },
+            {
+              "id": "botox_wrinkles",
+              "name": "中上面部除皱",
+              "price": {
+                "min": 680,
+                "max": 2580
+              },
+              "description": "通过放松面部肌肉来改善，抬头纹、鼻背纹、鱼尾纹和猫爪纹"
+            }
+          ]
+        },
+        {
+          "id": "eye_tightening",
+          "name": "改善眼周松弛和细纹",
+          "items": [
+            {
+              "id": "fotona_eye",
+              "name": "Fotona 4D眶周",
+              "price": 980,
+              "description": "4D利用其独到的双波长激光技术，通过以下模式协同作用，能综合改善多种眶周衰老问题，收紧眶周皮肤"
+            },
+            {
+              "id": "vesera_eye",
+              "name": "薇瑟拉黄金微针眼周",
+              "price": 1980,
+              "specification": "1000发，眼周负压头",
+              "description": "改善眼周细纹，紧致眼周皮肤，建议疗程治疗"
+            },
+            {
+              "id": "gold_microneedle_4_eye_area",
+              "name": "黄金微针4.0眶周",
+              "price": 3980,
+              "specification": "400发，眼周负压头",
+              "description": "改善眼周细纹，紧致眼周皮肤，建议疗程治疗"
+            },
+            {
+              "id": "gold_microneedle_5_eye_area",
+              "name": "黄金微针5.0眶周",
+              "price": 4980,
+              "specification": "600发，眼周负压头",
+              "description": "更先进操作系统，五代独特分层技术，可以进行多层次的眶周治疗，建议疗程治疗"
+            },
+            {
+              "id": "reforme_eye",
+              "name": "热芙美眼周",
+              "price": 9800,
+              "specification": "专用眼部治疗头900发",
+              "description": "通过4MHz单极带回路射频技术，能量可精准作用于眼部0-1.5mm的深度，刺激胶原蛋白。改善眼周松弛、淡化黑眼圈和减少细纹。治疗过程中需要佩戴眼盾"
+            },
+            {
+              "id": "picosecond_eye_pigment",
+              "name": "超皮秒眼周色素治疗",
+              "price": 680,
+              "description": "超皮秒激光能有效治疗眼周色素问题。它利用极短的皮秒级脉冲，将黑色素颗粒击碎成更细小的粉尘状，使其更易被人体代谢清除。改善效果有限，只可以改善色素型黑眼圈问题"
+            }
+          ]
+        },
+        {
+          "id": "tear_trough_dark_circles",
+          "name": "改善泪沟和黑眼圈",
+          "items": [
+            {
+              "id": "panda_needle_1",
+              "name": "熊猫针1.0",
+              "price": 1280,
+              "description": "经典泪沟项目，不建议注射超3次，容易眶下发泡，填充3次以上容易出现丁达尔现象，眶下发蓝"
+            },
+            {
+              "id": "iris_collagen",
+              "name": "爱莉丝牛胶原1ml",
+              "price": 2980,
+              "specification": "单次注射建议1-3支，周期性注射3-4个月1次",
+              "description": "泪沟、眶下收紧、填充效果较好，可以多次注射，性价比较高"
+            },
+            {
+              "id": "fuman_collagen_05",
+              "name": "弗缦胶原0.5ml",
+              "price": 2980,
+              "specification": "单次2-4支，建议周期性注射2-3月左右注射1次",
+              "description": "轻填充效果，维持时间稍短，代谢后可以滋养皮肤，改善黑眼圈"
+            },
+            {
+              "id": "fuman_collagen_1",
+              "name": "弗缦胶原1ml",
+              "price": 4980,
+              "specification": "单次1-2支，建议周期性注射2-3月左右注射1次",
+              "description": "轻填充效果，维持时间稍短，代谢后可以滋养皮肤，改善黑眼圈"
+            },
+            {
+              "id": "formulae",
+              "name": "肤莱美1ml",
+              "price": 9800,
+              "specification": "单次建议1-3支，大概6-8个月注射1次",
+              "description": "眶周支撑性最好的胶原，可以打眶周、泪沟和眶外侧，需要周期性注射"
+            },
+            {
+              "id": "fat_gel_tear_trough",
+              "name": "脂肪胶生态泪沟",
+              "price": 6800,
+              "description": "手术方式，提取脂肪制备成脂肪胶后填充泪沟，该项目为打包价，少量多次填充方案，可以补1-2次，稳定成活至少保持5年以上"
+            }
+          ]
+        },
+        {
+          "id": "upper_eyelid_hollow",
+          "name": "上眼窝凹陷",
+          "items": [
+            {
+              "id": "ha_eye_socket",
+              "name": "玻尿酸注射填充",
+              "price": {
+                "min": 5000,
+                "max": 10000
+              },
+              "specification": "单次建议1-2ml",
+              "description": "玻尿酸注射填充眼窝，但是不建议，因为玻尿酸填充后期吸水可能导致压眼，或者是肿眼泡的问题"
+            },
+            {
+              "id": "collagen_eye_socket",
+              "name": "胶原蛋白注射填充",
+              "price": {
+                "min": 10000,
+                "max": 20000
+              },
+              "specification": "单次建议1-2ml",
+              "description": "胶原蛋白注射填充眼窝，价格根据选择的胶原不同价格不同，需要医生评估后决定"
+            },
+            {
+              "id": "fat_eye_socket",
+              "name": "自体脂肪注射填充眼窝",
+              "price": 6800,
+              "description": "通过手术的方式抽取自体大腿、腹部的脂肪，经过处理净化之后填充眼窝改善眼窝凹陷问题，缺点是需要一定恢复期，优点是脂肪成活后可以维持5年左右"
+            }
+          ]
+        },
+        {
+          "id": "eye_bags",
+          "name": "眼袋问题",
+          "items": [
+            {
+              "id": "inner_eye_bag",
+              "name": "内切眼袋",
+              "price": 4800,
+              "description": "内切眼袋+眶隔脂肪释放，改善泪沟问题，优点一次见效，缺点需要一定恢复期"
+            },
+            {
+              "id": "nano_eye_bag",
+              "name": "纳米眼袋2.0",
+              "price": 7800,
+              "description": "精祛眼袋+泪沟回填+射频眶隔收紧，同时改善眼袋和泪沟的问题，优点一次见效，缺点需要一定恢复期"
+            },
+            {
+              "id": "outer_eye_bag",
+              "name": "外切眼袋",
+              "price": 7800,
+              "description": "外路眼袋手术+眶隔脂肪释放，同时收紧下睑松弛的皮肤，适合45+以上的眼袋"
+            }
+          ]
+        },
+        {
+          "id": "upper_eyelid_sagging",
+          "name": "上眼皮松弛",
+          "items": [
+            {
+              "id": "double_eyelid_surgery",
+              "name": "全切重睑",
+              "price": 4980,
+              "version": "基础版（传统睑板法+祛皮祛脂）",
+              "description": "祛除部分松弛的上眼睑皮肤，改善上睑皮肤松弛的情况，优点一次见效，缺点需要一定的恢复期"
+            },
+            {
+              "id": "bcc_rapid_beauty",
+              "name": "bcc三天急速美眼",
+              "price": 7980,
+              "method": "传统睑板法改良+SAJT法双重固定+上眼睑眶隔释放",
+              "description": "改善上眼松弛的同事，改善眼窝凹陷的问题，优点一次见效，缺点需要一定的恢复期"
+            }
+          ]
+        },
+        {
+          "id": "eye_tail_drooping",
+          "name": "眼尾下垂改善",
+          "items": [
+            {
+              "id": "brow_lift_surgery",
+              "name": "眉下切口提眉术",
+              "price": 5800,
+              "description": "在眉毛下方做切口，祛除松弛皮肤，改善眉尾下垂、上睑皮肤松弛、双眼皮变窄，优点一次见效，缺点需要一定的恢复期"
+            },
+            {
+              "id": "brow_bone_injection",
+              "name": "眉弓注射",
+              "price": {
+                "min": 6800,
+                "max": 16800
+              },
+              "specification": "一般建议1-3支",
+              "description": "通过玻尿酸或者骨性材料填充眉弓，让眉弓变得立体，这样眼尾下垂的问题会得到轻度改善"
+            }
+          ]
+        },
+        {
+          "id": "aegyo_sal",
+          "name": "自然灵动卧蚕改造",
+          "items": [
+            {
+              "id": "aegyo_sal_natural",
+              "name": "润致natural精致型+弗缦0.5ml",
+              "price": 3800,
+              "total_volume": "1.5ml",
+              "description": "比较自然灵动的样式，锐针和钝针结合，立体精修，更为自然立体"
+            },
+            {
+              "id": "aegyo_sal_premium",
+              "name": "进口瑞瑅*1+弗缦0.5ml",
+              "price": 5800,
+              "total_volume": "2.0ml",
+              "description": "立体幼态的效果，锐针和钝针结合，局部精修，自然柔软"
+            },
+            {
+              "id": "aegyo_sal_regenerative",
+              "name": "增加眉眼立体感支撑力强的再生材料提升双C和眉弓的立体感",
+              "price": 13800,
+              "coverage": "双C/眉尾/眶下",
+              "description": "羟基磷灰石的立体塑形效果，效果立体更加持久"
+            }
+          ]
+        },
+        {
+          "id": "eye_comprehensive",
+          "name": "眼周抗衰一卡通",
+          "items": [
+            {
+              "id": "eye_antiaging_package",
+              "name": "眼周抗衰一卡通",
+              "price": 18800,
+              "components": [
+                "爱莉丝胶原*3支（泪沟填充）+卧蚕1支（爱莉丝*1/润致natural*1支）",
+                "半岛黄金微针五代眼周模式*2次",
+                "爱莉丝眶周胶原水光3ml*2支",
+                "保妥适眼周除皱（猫抓纹/鱼尾纹）*1次",
+                "纳米眼袋1次（不限制使用时间，可转送好友）"
+              ],
+              "description": "眼周问题的综合改善，可以解决眼部的泪沟、细纹、松弛、动态纹、黑眼圈等等问题综合解决。如果想要重点解决眼周的问题，可以买这张卡进行疗程设计，大概疗程治疗时间6-12个月，可以有不错的改善效果"
+            }
+          ]
+        },
+        {
+          "id": "eye_surgery_solutions",
+          "name": "手术方式改善眼周问题",
+          "items": [
+            {
+              "id": "brow_lift_for_drooping",
+              "name": "眉下切口提眉术",
+              "price": 5800,
+              "indication": "解决眉尾下垂、上睑皮肤松弛、双眼皮变窄"
+            },
+            {
+              "id": "fat_gel_eco_tear_trough",
+              "name": "脂肪胶生态泪沟",
+              "price": 6800,
+              "description": "打包价，少量多次填充方案，可以补1-2次，稳定成活至少保持5年以上"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "injectable_fillers",
+      "name": "注射项目价格",
+      "description": "各类注射填充材料价格表",
+      "subcategories": [
+        {
+          "id": "regenerative_materials",
+          "name": "再生材料",
+          "items": [
+            {
+              "id": "ellanse",
+              "name": "艾维岚",
+              "specification": "340mg",
+              "original_price": 18800,
+              "promotional_price": 8800
+            },
+            {
+              "id": "sculptra",
+              "name": "普丽妍童颜",
+              "specification": "370mg",
+              "original_price": 16800,
+              "promotional_price": 11800
+            },
+            {
+              "id": "sculptra_china",
+              "name": "乐普·臻童颜",
+              "specification": "370mg",
+              "original_price": 8800,
+              "promotional_price": 6800,
+              "note": "原价购买3个月免费补打1次"
+            }
+          ]
+        },
+        {
+          "id": "collagen",
+          "name": "胶原",
+          "items": [
+            {
+              "id": "rubai_angel",
+              "name": "濡白天使",
+              "specification": "0.75ml",
+              "original_price": 12800,
+              "promotional_price": 5980
+            },
+            {
+              "id": "chaoxu_beauty",
+              "name": "超序之美",
+              "specification": "0.3ml+1.0ml",
+              "original_price": 18800,
+              "promotional_price": 13800
+            },
+            {
+              "id": "shuangmei_foroumei",
+              "name": "双美肤柔美",
+              "specification": "0.5ml",
+              "original_price": 6800,
+              "promotional_price": 4800
+            },
+            {
+              "id": "formulae_1ml",
+              "name": "肤莱美",
+              "specification": "1.0ml",
+              "original_price": 12800,
+              "promotional_price": 9800
+            },
+            {
+              "id": "fuman_05ml",
+              "name": "弗缦0.5",
+              "specification": "0.5ml",
+              "original_price": 4800,
+              "promotional_price": 2980
+            },
+            {
+              "id": "fuman_1ml",
+              "name": "弗缦1.0",
+              "specification": "1.0ml",
+              "original_price": 6800,
+              "promotional_price": 4980
+            },
+            {
+              "id": "iris_collagen_1ml",
+              "name": "爱莉丝胶原",
+              "specification": "1.0ml",
+              "original_price": 3980,
+              "promotional_price": 2980
+            },
+            {
+              "id": "siyanduo_1",
+              "name": "丝孄朵①号",
+              "specification": "1.0ml",
+              "original_price": 6800,
+              "promotional_price": 2980
+            }
+          ]
+        },
+        {
+          "id": "ha_large",
+          "name": "玻尿酸大分子",
+          "items": [
+            {
+              "id": "runzhi_5",
+              "name": "润致5号",
+              "specification": "1.0ml",
+              "original_price": 2980,
+              "promotional_price": 1980
+            },
+            {
+              "id": "allergan",
+              "name": "爱拉丝提",
+              "specification": "1.0ml",
+              "original_price": 5800,
+              "promotional_price": 2980
+            },
+            {
+              "id": "restylane_lyps",
+              "name": "瑞蓝丽瑅丽多",
+              "specification": "1.0ml",
+              "original_price": 13800,
+              "promotional_price": 8800
+            },
+            {
+              "id": "juvederm_volux",
+              "name": "丰颜",
+              "specification": "1.0ml",
+              "original_price": 12800,
+              "promotional_price": 9800
+            },
+            {
+              "id": "restylane_defyne",
+              "name": "瑞蓝定采",
+              "specification": "1.0ml",
+              "original_price": 14800,
+              "promotional_price": 12800
+            },
+            {
+              "id": "restylane_volyme",
+              "name": "瑞蓝丰采",
+              "specification": "1.0ml",
+              "original_price": 14800,
+              "promotional_price": 12800
+            },
+            {
+              "id": "teosyal_ultra_deep",
+              "name": "缇颜",
+              "specification": "1.0ml",
+              "original_price": 15800,
+              "promotional_price": 9800
+            }
+          ]
+        },
+        {
+          "id": "ha_small",
+          "name": "玻尿酸小分子",
+          "items": [
+            {
+              "id": "restylane_vital",
+              "name": "瑞瑅",
+              "specification": "1.0ml",
+              "original_price": 6800,
+              "promotional_price": 4800
+            },
+            {
+              "id": "runzhi_feiran",
+              "name": "润致斐然",
+              "specification": "1.0ml",
+              "original_price": 7980,
+              "promotional_price": 3980,
+              "note": "唇部、卧蚕专用"
+            },
+            {
+              "id": "runzhi_natural",
+              "name": "润致natural",
+              "specification": "1.0ml",
+              "original_price": 2980,
+              "promotional_price": 1980,
+              "note": "唇部、卧蚕专用"
+            },
+            {
+              "id": "runzhi_3",
+              "name": "润致3号",
+              "specification": "1.0ml",
+              "original_price": 2980,
+              "promotional_price": 1680
+            },
+            {
+              "id": "panda_needle",
+              "name": "嗨体熊猫针1.0ml",
+              "specification": "1.0ml",
+              "original_price": 2580,
+              "promotional_price": 1580,
+              "note": "限新"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maintenance_packages",
+      "name": "皮肤美容维养套餐",
+      "description": "综合性皮肤保养和抗衰年卡",
+      "items": [
+        {
+          "id": "basic_maintenance",
+          "name": "基础维养卡（六选三）",
+          "price": 3680,
+          "options": [
+            "黄金超光子3X全模式*6次",
+            "超皮秒美白嫩肤*6次",
+            "黄金射频舒敏抗衰*6次",
+            "1565/1550点阵激光*6次",
+            "美白维养水光（富勒烯润白、童颜龄透白、铂金三文鱼、润百颜玻玻）*6支",
+            "4D紧致白双模式*6次"
+          ],
+          "description": "如果你是健康皮肤，想要美白、补水或者是做一些比较基础的日常维养可以选择这个项目。可以改善皮肤粗糙、肤色暗沉、皮肤干燥等问题"
+        },
+        {
+          "id": "light_antiaging",
+          "name": "轻轻抗衰卡（六选三）",
+          "price": 4980,
+          "options": [
+            "欧洲之星4Dpro全模式(面)60min超级版*2次",
+            "热拉提PLUS全模式45min保准版*2次",
+            "普丽兰婴儿针/保斯登胶原/倩碧胶原双子瓶2支",
+            "钻石超塑(面+下颁缘)*2次",
+            "薇瑟拉黄金微针*2次",
+            "黄金炮*1次"
+          ],
+          "bonus": "送基础水光童颜龄云朵水光2支",
+          "description": "适合30+左右的轻度抗衰保养需求的人，其中欧洲之星、热拉提、钻石超塑、黄金炮可以紧致肌肤，黄金微针和水光可以改善肤质和肤色让皮肤变得更加细腻"
+        },
+        {
+          "id": "luxury_maintenance_annual",
+          "name": "轻奢维养年卡",
+          "price": 12800,
+          "components": {
+            "photoelectric_maintenance": "超皮秒/超光子/1550点阵激光/1565点阵激光/Fotona 4D/黄金热拉提（9次）",
+            "antiaging_series": "半岛黄金微针4面部/黄金炮/薇瑟拉黄金微针（面颈眼任选）（3次）",
+            "mesotherapy": "10支（普丽兰动能素/馨集萃胶原/芬生源218/思伊美水光/保斯登动能素/海兰提斯修复）",
+            "skin_management": "全年不限次使用清痘/湿敷/照光/导入"
+          },
+          "description": "搭配了12次仪器治疗和10次水光治疗，基本上可以覆盖1-1.5年的皮肤治疗。维持肌肤比较好的状态"
+        },
+        {
+          "id": "luxury_antiaging_annual",
+          "name": "贵妇抗衰年卡",
+          "price": 19800,
+          "components": {
+            "photoelectric_maintenance": "超皮秒/超光子/1550点阵激光/1565点阵激光/4D/黄金热拉提/Fotona4D任选6次",
+            "photoelectric_antiaging": "曲提超声刀*2 热芙美1200发*1 薇瑟拉黄金微针3次",
+            "mesotherapy": "任选8支（去黄美白：保斯登动能素/童颜龄滤光/芬生源228月光瓶；抗炎修复：芬生源218贻贝粘蛋白/海兰提斯修复/普丽兰婴儿针/保斯登葡聚糖/保斯登动能素；抗衰养肤：馨集萃胶原/曼渴胶原/思逸美长效水光3ml/倩碧胶原双子瓶/富勒烯述白·极纯童颜；痘肌管理：芬生源祛痘套组（3支））",
+            "premium_mesotherapy": "赠送高端中胚体验卡：2支（芮娜塔17型胶原/诗婉妮白月光外泌体/乔洛施AR外泌体/富勒烯净白/保斯登瀑布任选）"
+          },
+          "description": "适合30+以上有抗衰需求，有轻度衰老问题的皮肤，可以满足1-1.5左右的皮肤维养。项目搭配了6次基础光电项目用于日常的肤色、肤质的维养；6次抗衰项目从筋膜层、真皮层进行综合的紧致提。8支有一定功效的水光产品基本上覆盖了皮肤的补水、美白、修复、痘痘等问题"
+        },
+        {
+          "id": "customized_antiaging",
+          "name": "高定皮肤抗衰卡",
+          "price": 29800,
+          "components": {
+            "photoelectric_maintenance": "超皮秒/超光子/1550点阵激光/1565点阵激光/4D/黄金热拉提任选6次",
+            "photoelectric_antiaging": "曲提超声刀*2 热芙美1200发*1 半岛黄金微针五代*3次",
+            "premium_mesotherapy": "任选10支（芮娜塔17型胶原/诗婉妮白月光外泌体/乔洛施AR外泌体/富勒烯净白/费丝欧俪/保斯登瀑布/滢祎美祛斑/黄金元祛斑）"
+          },
+          "description": "高定皮肤抗衰卡吗，适合有更高皮肤治疗需求的顾客。相比于19800的卡项，升级了黄金微针的品相，从薇瑟拉升级为黄金微针五代，有更好的抗衰效效果。搭配10支高端水光，可以满足皮肤衰老问题、疑难色斑问题、以及严重敏感肌等等问题，同时具有抗衰维养的效果"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "version": "1.0",
+    "last_updated": "2025-10-15",
+    "currency": "CNY",
+    "notes": [
+      "所有价格均为人民币",
+      "具体治疗方案需要医生面诊评估后确定",
+      "部分项目需要疗程治疗才能达到理想效果",
+      "注射类项目的剂量和材料选择需根据个人基础条件和医生建议",
+      "手术类项目需要一定恢复期"
+    ]
+  }
+}

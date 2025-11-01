@@ -1,0 +1,225 @@
+{
+  "needs_list": [
+    {
+      "id": "whitening",
+      "name": "美白提亮",
+      "keywords": [
+        "美白",
+        "提亮",
+        "肤色暗沉",
+        "黄气",
+        "暗黄"
+      ],
+      "plan_count": 3
+    },
+    {
+      "id": "spot_removal",
+      "name": "祛斑淡斑",
+      "keywords": [
+        "祛斑",
+        "淡斑",
+        "色斑",
+        "雀斑",
+        "黄褐斑",
+        "晒斑"
+      ],
+      "plan_count": 3
+    },
+    {
+      "id": "acne_control",
+      "name": "祛痘控油",
+      "keywords": [
+        "祛痘",
+        "控油",
+        "痘痘",
+        "痤疮",
+        "闭口",
+        "粉刺"
+      ],
+      "plan_count": 3
+    },
+    {
+      "id": "pore_minimizing",
+      "name": "收缩毛孔",
+      "keywords": [
+        "收缩毛孔",
+        "毛孔粗大",
+        "粗毛孔",
+        "毛孔"
+      ],
+      "plan_count": 3
+    },
+    {
+      "id": "anti_wrinkle",
+      "name": "抗衰除皱",
+      "keywords": [
+        "抗衰",
+        "除皱",
+        "皱纹",
+        "细纹",
+        "抬头纹",
+        "鱼尾纹",
+        "法令纹"
+      ],
+      "plan_count": 3
+    },
+    {
+      "id": "skin_tightening",
+      "name": "紧致提升",
+      "keywords": [
+        "紧致",
+        "提升",
+        "松弛",
+        "下垂",
+        "轮廓"
+      ],
+      "plan_count": 3
+    },
+    {
+      "id": "hydration",
+      "name": "补水保湿",
+      "keywords": [
+        "补水",
+        "保湿",
+        "干燥",
+        "缺水",
+        "水光"
+      ],
+      "plan_count": 3
+    },
+    {
+      "id": "sensitive_repair",
+      "name": "修复敏感",
+      "keywords": [
+        "修复",
+        "敏感",
+        "红血丝",
+        "泛红",
+        "屏障受损"
+      ],
+      "plan_count": 3
+    },
+    {
+      "id": "eye_rejuvenation",
+      "name": "眼部年轻化",
+      "keywords": [
+        "眼部",
+        "泪沟",
+        "眼袋",
+        "黑眼圈",
+        "眼纹",
+        "眼周"
+      ],
+      "plan_count": 3
+    },
+    {
+      "id": "facial_contouring",
+      "name": "面部轮廓",
+      "keywords": [
+        "轮廓",
+        "瘦脸",
+        "下颌",
+        "咬肌",
+        "双下巴",
+        "面部塑形"
+      ],
+      "plan_count": 3
+    },
+    {
+      "id": "neck_rejuvenation",
+      "name": "颈部年轻化",
+      "keywords": [
+        "颈部",
+        "颈纹",
+        "颈部松弛",
+        "火鸡脖"
+      ],
+      "plan_count": 3
+    },
+    {
+      "id": "acne_scar",
+      "name": "痘坑痘印",
+      "keywords": [
+        "痘坑",
+        "痘印",
+        "疤痕",
+        "凹陷疤痕"
+      ],
+      "plan_count": 3
+    }
+  ],
+  "quick_index": {
+    "whitening": {
+      "name": "美白提亮",
+      "basic_price": "2000-4000",
+      "standard_price": "5000-8000",
+      "premium_price": "10000-20000"
+    },
+    "spot_removal": {
+      "name": "祛斑淡斑",
+      "basic_price": "3000-6000",
+      "standard_price": "10000-15000",
+      "premium_price": "26800"
+    },
+    "acne_control": {
+      "name": "祛痘控油",
+      "basic_price": "2000-4000",
+      "standard_price": "8000-12000",
+      "premium_price": "15000-20000"
+    },
+    "pore_minimizing": {
+      "name": "收缩毛孔",
+      "basic_price": "3000-5000",
+      "standard_price": "8000-12000",
+      "premium_price": "15000-25000"
+    },
+    "anti_wrinkle": {
+      "name": "抗衰除皱",
+      "basic_price": "5000-8000",
+      "standard_price": "15000-25000",
+      "premium_price": "40000-60000"
+    },
+    "skin_tightening": {
+      "name": "紧致提升",
+      "basic_price": "6000-10000",
+      "standard_price": "20000-35000",
+      "premium_price": "50000-80000"
+    },
+    "hydration": {
+      "name": "补水保湿",
+      "basic_price": "2000-4000",
+      "standard_price": "6000-10000",
+      "premium_price": "15000-25000"
+    },
+    "sensitive_repair": {
+      "name": "修复敏感",
+      "basic_price": "3000-5000",
+      "standard_price": "10000-15000",
+      "premium_price": "18000-30000"
+    },
+    "eye_rejuvenation": {
+      "name": "眼部年轻化",
+      "basic_price": "3000-6000",
+      "standard_price": "10000-20000",
+      "premium_price": "25000-40000"
+    },
+    "facial_contouring": {
+      "name": "面部轮廓",
+      "basic_price": "4000-8000",
+      "standard_price": "12000-20000",
+      "premium_price": "25000-50000"
+    },
+    "neck_rejuvenation": {
+      "name": "颈部年轻化",
+      "basic_price": "3000-5000",
+      "standard_price": "8000-15000",
+      "premium_price": "20000-35000"
+    },
+    "acne_scar": {
+      "name": "痘坑痘印",
+      "basic_price": "5000-8000",
+      "standard_price": "12000-18000",
+      "premium_price": "20000-30000"
+    }
+  }
+}

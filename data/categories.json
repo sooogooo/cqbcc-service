@@ -1,0 +1,112 @@
+{
+  "categories": [
+    {
+      "id": "skin_beauty",
+      "name": "皮肤美容",
+      "name_en": "Skin Beauty",
+      "subcategories": [
+        {
+          "id": "hydration",
+          "name": "补水",
+          "description": "干燥、起皮、卡粉"
+        },
+        {
+          "id": "whitening",
+          "name": "美白",
+          "description": "肤色发黄、肤色暗沉、晒后变黑"
+        },
+        {
+          "id": "oil_control",
+          "name": "控油",
+          "description": "洗完脸一会就出油、大油田、脸上出油氧化容易暗沉"
+        },
+        {
+          "id": "pore_minimization",
+          "name": "毛孔缩小",
+          "description": "天生毛孔粗大、30岁后出现毛孔问题、出油并且毛孔粗大、顽固型毛孔问题"
+        }
+      ]
+    },
+    {
+      "id": "problem_skin",
+      "name": "问题肌肤治疗",
+      "name_en": "Problem Skin Treatment",
+      "subcategories": [
+        {
+          "id": "redness",
+          "name": "皮肤泛红",
+          "description": "长期泛红、洗脸刺痛、出油且敏感、干燥且敏感、有红血丝问题、长期面部潮红"
+        },
+        {
+          "id": "pigmentation",
+          "name": "皮肤色斑",
+          "description": "雀斑、黄褐斑、咖啡斑、褐青色痣、不知道具体什么斑就是有黑点点"
+        },
+        {
+          "id": "acne",
+          "name": "痘痘",
+          "description": "痘痘肌问题、痘坑问题、红色以及黑色痘印"
+        }
+      ]
+    },
+    {
+      "id": "anti_aging",
+      "name": "抗衰年轻化",
+      "name_en": "Anti-aging & Rejuvenation",
+      "subcategories": [
+        {
+          "id": "eye_area",
+          "name": "眼周年轻化",
+          "description": "泪沟、眼袋、黑眼圈、上眼皮肤松弛、眼周细纹"
+        },
+        {
+          "id": "perioral_area",
+          "name": "口周年轻化",
+          "description": "法令纹、口角囊袋、唇部精调、人中脊调整、口周收紧"
+        },
+        {
+          "id": "neck_area",
+          "name": "颈部年轻化",
+          "description": "颈纹、颈部松弛等"
+        },
+        {
+          "id": "facial_contouring",
+          "name": "内外轮廓年轻化",
+          "description": "馒化修复、面颊凹陷、太阳穴凹陷、双下巴、下颌线不清晰、下巴短后缩"
+        }
+      ]
+    },
+    {
+      "id": "individual_treatments",
+      "name": "单独项目价格",
+      "name_en": "Individual Treatments",
+      "subcategories": [
+        {
+          "id": "aqua_glow",
+          "name": "水光微针类",
+          "description": "基础水光、胶原水光、童颜水光等"
+        },
+        {
+          "id": "chemical_peels",
+          "name": "刷酸治疗",
+          "description": "水杨酸、三明治疗法等"
+        },
+        {
+          "id": "device_treatments",
+          "name": "仪器治疗",
+          "description": "光子嫩肤、超皮秒、超声炮、热芙美、Fotona 4D等"
+        },
+        {
+          "id": "injectables",
+          "name": "注射填充",
+          "description": "玻尿酸、胶原蛋白、童颜针、再生材料等"
+        },
+        {
+          "id": "wrinkle_reduction",
+          "name": "除皱肉毒",
+          "description": "吉适、保妥适等"
+        }
+      ]
+    }
+  ]
+}

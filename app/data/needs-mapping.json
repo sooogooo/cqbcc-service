@@ -1,0 +1,968 @@
+{
+  "version": "1.0",
+  "last_updated": "2025-10-16",
+  "description": "常见医美需求到项目和方案的智能映射系统",
+  "needs": [
+    {
+      "id": "whitening",
+      "name": "美白提亮",
+      "keywords": [
+        "美白",
+        "提亮",
+        "肤色暗沉",
+        "黄气",
+        "暗黄"
+      ],
+      "target_problems": [
+        "肤色不均",
+        "暗沉",
+        "色素沉着"
+      ],
+      "recommended_projects": [
+        {
+          "project_id": "opt_photon",
+          "project_name": "OPT/全能光子（全模式）",
+          "category": "抗衰设备",
+          "priority": "high",
+          "reason": "强脉冲光可快速改善肤色暗沉和色素沉着"
+        },
+        {
+          "project_id": "aopt_photon",
+          "project_name": "AOPT超光子（全模式）",
+          "category": "抗衰设备",
+          "priority": "high",
+          "reason": "升级版光子嫩肤，美白效果更显著"
+        },
+        {
+          "project_id": "gold_photon",
+          "project_name": "黄金超光子（全模式）",
+          "category": "抗衰设备",
+          "priority": "medium",
+          "reason": "顶级光子设备，综合改善肤质和肤色"
+        }
+      ],
+      "plans": [
+        {
+          "level": "basic",
+          "name": "基础美白方案",
+          "projects": [
+            "OPT光子嫩肤",
+            "医用美白面膜"
+          ],
+          "sessions": "3-5次",
+          "duration": "1-2个月",
+          "price_range": "2000-4000",
+          "suitable_for": "轻度暗沉，预算有限"
+        },
+        {
+          "level": "standard",
+          "name": "标准美白方案",
+          "projects": [
+            "AOPT超光子",
+            "美白水光针",
+            "维生素C导入"
+          ],
+          "sessions": "6-8次",
+          "duration": "2-3个月",
+          "price_range": "5000-8000",
+          "suitable_for": "中度暗沉，追求稳定效果"
+        },
+        {
+          "level": "premium",
+          "name": "高级美白方案",
+          "projects": [
+            "黄金超光子",
+            "美白精华注射",
+            "超皮秒联合治疗"
+          ],
+          "sessions": "8-12次",
+          "duration": "3-6个月",
+          "price_range": "10000-20000",
+          "suitable_for": "重度暗沉，追求极致效果"
+        }
+      ]
+    },
+    {
+      "id": "spot_removal",
+      "name": "祛斑淡斑",
+      "keywords": [
+        "祛斑",
+        "淡斑",
+        "色斑",
+        "雀斑",
+        "黄褐斑",
+        "晒斑"
+      ],
+      "target_problems": [
+        "色斑",
+        "雀斑",
+        "黄褐斑",
+        "晒斑",
+        "色素沉着"
+      ],
+      "recommended_projects": [
+        {
+          "project_id": "picosecond",
+          "project_name": "超皮秒祛斑",
+          "category": "色斑治疗",
+          "priority": "high",
+          "reason": "皮秒激光是祛斑金标准，快速击碎色素"
+        },
+        {
+          "project_id": "qswitch",
+          "project_name": "调Q激光祛斑",
+          "category": "色斑治疗",
+          "priority": "high",
+          "reason": "经典祛斑激光，安全有效"
+        },
+        {
+          "project_id": "spot_package_2",
+          "project_name": "②号祛斑卡",
+          "category": "色斑治疗",
+          "priority": "medium",
+          "reason": "综合祛斑套餐，光电+产品组合"
+        }
+      ],
+      "plans": [
+        {
+          "level": "basic",
+          "name": "基础祛斑方案",
+          "projects": [
+            "超皮秒祛斑-局部",
+            "祛斑精华导入"
+          ],
+          "sessions": "3-5次",
+          "duration": "2-3个月",
+          "price_range": "3000-6000",
+          "suitable_for": "浅层色斑，面积较小"
+        },
+        {
+          "level": "standard",
+          "name": "标准祛斑方案",
+          "projects": [
+            "超皮秒祛斑-全脸",
+            "祛斑中胚层",
+            "修复产品"
+          ],
+          "sessions": "6-8次",
+          "duration": "3-4个月",
+          "price_range": "10000-15000",
+          "suitable_for": "中度色斑，多种斑点"
+        },
+        {
+          "level": "premium",
+          "name": "高级祛斑方案",
+          "projects": [
+            "③号净斑卡",
+            "黄金微针",
+            "修复注射"
+          ],
+          "sessions": "12次疗程",
+          "duration": "6个月",
+          "price_range": "26800",
+          "suitable_for": "顽固黄褐斑，复杂色斑"
+        }
+      ]
+    },
+    {
+      "id": "acne_control",
+      "name": "祛痘控油",
+      "keywords": [
+        "祛痘",
+        "控油",
+        "痘痘",
+        "痤疮",
+        "闭口",
+        "粉刺"
+      ],
+      "target_problems": [
+        "痤疮",
+        "痘痘",
+        "闭口",
+        "粉刺",
+        "油脂分泌过多"
+      ],
+      "recommended_projects": [
+        {
+          "project_id": "salicylic_acid",
+          "project_name": "博乐达水杨酸",
+          "category": "痤疮痘痘治疗",
+          "priority": "high",
+          "reason": "水杨酸深层清洁毛孔，控油祛痘"
+        },
+        {
+          "project_id": "sandwich_treatment",
+          "project_name": "三明治祛痘嫩肤",
+          "category": "痤疮痘痘治疗",
+          "priority": "high",
+          "reason": "多层次祛痘治疗，效果好恢复快"
+        },
+        {
+          "project_id": "gold_microneedle_acne",
+          "project_name": "黄金微针4.0-病症",
+          "category": "痤疮痘痘治疗",
+          "priority": "medium",
+          "reason": "射频微针抑制皮脂腺，从根源控油"
+        }
+      ],
+      "plans": [
+        {
+          "level": "basic",
+          "name": "基础祛痘方案",
+          "projects": [
+            "水杨酸焕肤",
+            "LED红蓝光",
+            "针清"
+          ],
+          "sessions": "4-6次",
+          "duration": "1-2个月",
+          "price_range": "2000-4000",
+          "suitable_for": "轻度痘肌，偶发痘痘"
+        },
+        {
+          "level": "standard",
+          "name": "标准祛痘方案",
+          "projects": [
+            "痘清清B",
+            "1565点阵",
+            "祛痘套组"
+          ],
+          "sessions": "6-9次",
+          "duration": "3个月疗程",
+          "price_range": "8000-12000",
+          "suitable_for": "中度痘肌，反复发作"
+        },
+        {
+          "level": "premium",
+          "name": "高级祛痘方案",
+          "projects": [
+            "痘清清C",
+            "黄金微针",
+            "综合治疗"
+          ],
+          "sessions": "12-18次",
+          "duration": "6个月疗程",
+          "price_range": "15000-20000",
+          "suitable_for": "重度痘肌，伴有炎症"
+        }
+      ]
+    },
+    {
+      "id": "pore_minimizing",
+      "name": "收缩毛孔",
+      "keywords": [
+        "收缩毛孔",
+        "毛孔粗大",
+        "粗毛孔",
+        "毛孔"
+      ],
+      "target_problems": [
+        "毛孔粗大",
+        "T区毛孔",
+        "两颊毛孔"
+      ],
+      "recommended_projects": [
+        {
+          "project_id": "fractional_1565",
+          "project_name": "1565非剥脱点阵",
+          "category": "抗衰设备",
+          "priority": "high",
+          "reason": "点阵激光刺激胶原再生，收缩毛孔"
+        },
+        {
+          "project_id": "gold_microneedle_rejuv",
+          "project_name": "黄金微针4.0嫩肤",
+          "category": "抗衰设备",
+          "priority": "high",
+          "reason": "射频微针深层收缩毛孔，改善肤质"
+        },
+        {
+          "project_id": "salicylic_peel",
+          "project_name": "超分子水杨酸焕肤",
+          "category": "刷酸治疗",
+          "priority": "medium",
+          "reason": "疏通毛孔，改善油脂分泌"
+        }
+      ],
+      "plans": [
+        {
+          "level": "basic",
+          "name": "基础收毛孔方案",
+          "projects": [
+            "水杨酸焕肤",
+            "收敛水光"
+          ],
+          "sessions": "4-6次",
+          "duration": "2个月",
+          "price_range": "3000-5000",
+          "suitable_for": "轻度毛孔粗大"
+        },
+        {
+          "level": "standard",
+          "name": "标准收毛孔方案",
+          "projects": [
+            "1565点阵",
+            "黄金微针嫩肤",
+            "水杨酸"
+          ],
+          "sessions": "6-8次",
+          "duration": "3-4个月",
+          "price_range": "8000-12000",
+          "suitable_for": "中度毛孔粗大"
+        },
+        {
+          "level": "premium",
+          "name": "高级收毛孔方案",
+          "projects": [
+            "黄金微针5.0",
+            "CO2点阵",
+            "综合治疗"
+          ],
+          "sessions": "8-12次",
+          "duration": "4-6个月",
+          "price_range": "15000-25000",
+          "suitable_for": "重度毛孔粗大"
+        }
+      ]
+    },
+    {
+      "id": "anti_wrinkle",
+      "name": "抗衰除皱",
+      "keywords": [
+        "抗衰",
+        "除皱",
+        "皱纹",
+        "细纹",
+        "抬头纹",
+        "鱼尾纹",
+        "法令纹"
+      ],
+      "target_problems": [
+        "细纹",
+        "皱纹",
+        "抬头纹",
+        "鱼尾纹",
+        "法令纹",
+        "川字纹"
+      ],
+      "recommended_projects": [
+        {
+          "project_id": "botox",
+          "project_name": "肉毒素除皱",
+          "category": "注射项目",
+          "priority": "high",
+          "reason": "动态性皱纹的金标准治疗"
+        },
+        {
+          "project_id": "thermage",
+          "project_name": "热芙美",
+          "category": "抗衰设备",
+          "priority": "high",
+          "reason": "深层紧致，全面抗衰"
+        },
+        {
+          "project_id": "hifu",
+          "project_name": "超声炮/曲提",
+          "category": "抗衰设备",
+          "priority": "medium",
+          "reason": "筋膜层提拉，改善松弛"
+        }
+      ],
+      "plans": [
+        {
+          "level": "basic",
+          "name": "基础抗衰方案",
+          "projects": [
+            "肉毒素除皱",
+            "补水水光",
+            "基础维养"
+          ],
+          "sessions": "2-4次/年",
+          "duration": "持续维养",
+          "price_range": "5000-8000",
+          "suitable_for": "30岁左右，预防性抗衰"
+        },
+        {
+          "level": "standard",
+          "name": "标准抗衰方案",
+          "projects": [
+            "超声炮",
+            "黄金微针5.0",
+            "胶原注射"
+          ],
+          "sessions": "4-6次",
+          "duration": "6个月",
+          "price_range": "15000-25000",
+          "suitable_for": "35-45岁，中度衰老"
+        },
+        {
+          "level": "premium",
+          "name": "高级抗衰方案",
+          "projects": [
+            "热芙美",
+            "曲提超声刀",
+            "童颜针",
+            "维养套餐"
+          ],
+          "sessions": "6-10次",
+          "duration": "12个月",
+          "price_range": "40000-60000",
+          "suitable_for": "45岁以上，深度抗衰"
+        }
+      ]
+    },
+    {
+      "id": "skin_tightening",
+      "name": "紧致提升",
+      "keywords": [
+        "紧致",
+        "提升",
+        "松弛",
+        "下垂",
+        "轮廓"
+      ],
+      "target_problems": [
+        "皮肤松弛",
+        "面部下垂",
+        "轮廓模糊"
+      ],
+      "recommended_projects": [
+        {
+          "project_id": "quti_ultrasound",
+          "project_name": "曲提超声刀",
+          "category": "抗衰设备",
+          "priority": "high",
+          "reason": "弧面刀头提升，效果强劲"
+        },
+        {
+          "project_id": "thermage_plus",
+          "project_name": "热芙美",
+          "category": "抗衰设备",
+          "priority": "high",
+          "reason": "单极射频，深层紧致"
+        },
+        {
+          "project_id": "ligament_lift",
+          "project_name": "韧带提升",
+          "category": "口周年轻化",
+          "priority": "medium",
+          "reason": "注射提升，改善松弛下垂"
+        }
+      ],
+      "plans": [
+        {
+          "level": "basic",
+          "name": "基础紧致方案",
+          "projects": [
+            "热拉提PLUS",
+            "黄金微针4.0"
+          ],
+          "sessions": "3-4次",
+          "duration": "3个月",
+          "price_range": "6000-10000",
+          "suitable_for": "轻度松弛"
+        },
+        {
+          "level": "standard",
+          "name": "标准紧致方案",
+          "projects": [
+            "超声炮全模式",
+            "黄金微针5.0",
+            "韧带提升"
+          ],
+          "sessions": "4-6次",
+          "duration": "6个月",
+          "price_range": "20000-35000",
+          "suitable_for": "中度松弛"
+        },
+        {
+          "level": "premium",
+          "name": "高级紧致方案",
+          "projects": [
+            "曲提超声刀",
+            "热芙美",
+            "线雕提升"
+          ],
+          "sessions": "6-8次",
+          "duration": "12个月",
+          "price_range": "50000-80000",
+          "suitable_for": "重度松弛"
+        }
+      ]
+    },
+    {
+      "id": "hydration",
+      "name": "补水保湿",
+      "keywords": [
+        "补水",
+        "保湿",
+        "干燥",
+        "缺水",
+        "水光"
+      ],
+      "target_problems": [
+        "皮肤干燥",
+        "缺水",
+        "细纹",
+        "粗糙"
+      ],
+      "recommended_projects": [
+        {
+          "project_id": "hyaluronic_hydration",
+          "project_name": "透明质酸水光针",
+          "category": "注射项目",
+          "priority": "high",
+          "reason": "深层补水，即刻改善"
+        },
+        {
+          "project_id": "led_hydration",
+          "project_name": "LED光疗+湿敷",
+          "category": "敏感肌修复",
+          "priority": "medium",
+          "reason": "温和补水，舒缓肌肤"
+        }
+      ],
+      "plans": [
+        {
+          "level": "basic",
+          "name": "基础补水方案",
+          "projects": [
+            "基础水光针",
+            "医用面膜"
+          ],
+          "sessions": "3-4次",
+          "duration": "2个月",
+          "price_range": "2000-4000",
+          "suitable_for": "日常补水维养"
+        },
+        {
+          "level": "standard",
+          "name": "标准补水方案",
+          "projects": [
+            "水光针",
+            "胶原导入",
+            "补水套餐"
+          ],
+          "sessions": "6-8次",
+          "duration": "3-4个月",
+          "price_range": "6000-10000",
+          "suitable_for": "干燥缺水明显"
+        },
+        {
+          "level": "premium",
+          "name": "高级补水方案",
+          "projects": [
+            "高端水光",
+            "胶原注射",
+            "年度维养卡"
+          ],
+          "sessions": "10-12次",
+          "duration": "12个月",
+          "price_range": "15000-25000",
+          "suitable_for": "长期维养，最佳状态"
+        }
+      ]
+    },
+    {
+      "id": "sensitive_repair",
+      "name": "修复敏感",
+      "keywords": [
+        "修复",
+        "敏感",
+        "红血丝",
+        "泛红",
+        "屏障受损"
+      ],
+      "target_problems": [
+        "敏感肌",
+        "玫瑰痤疮",
+        "红血丝",
+        "屏障受损"
+      ],
+      "recommended_projects": [
+        {
+          "project_id": "moonlight_repair",
+          "project_name": "白月光脱敏抗衰",
+          "category": "敏感肌修复",
+          "priority": "high",
+          "reason": "综合修复方案，重建屏障"
+        },
+        {
+          "project_id": "gold_photon_repair",
+          "project_name": "黄金超光子光调修复",
+          "category": "敏感肌修复",
+          "priority": "high",
+          "reason": "光调模式温和修复"
+        },
+        {
+          "project_id": "repair_injection",
+          "project_name": "修复型注射产品",
+          "category": "敏感肌修复",
+          "priority": "medium",
+          "reason": "深层修复，抗炎舒敏"
+        }
+      ],
+      "plans": [
+        {
+          "level": "basic",
+          "name": "基础修复方案",
+          "projects": [
+            "LED光疗",
+            "修复面膜",
+            "舒敏导入"
+          ],
+          "sessions": "6-8次",
+          "duration": "2-3个月",
+          "price_range": "3000-5000",
+          "suitable_for": "轻度敏感"
+        },
+        {
+          "level": "standard",
+          "name": "标准修复方案",
+          "projects": [
+            "白月光A/B",
+            "光调修复",
+            "修复注射"
+          ],
+          "sessions": "9-12次",
+          "duration": "3-4个月",
+          "price_range": "10000-15000",
+          "suitable_for": "中度敏感，屏障受损"
+        },
+        {
+          "level": "premium",
+          "name": "高级修复方案",
+          "projects": [
+            "白月光C",
+            "17型胶原",
+            "综合治疗"
+          ],
+          "sessions": "12-18次",
+          "duration": "6个月",
+          "price_range": "18000-30000",
+          "suitable_for": "重度敏感，玫瑰痤疮"
+        }
+      ]
+    },
+    {
+      "id": "eye_rejuvenation",
+      "name": "眼部年轻化",
+      "keywords": [
+        "眼部",
+        "泪沟",
+        "眼袋",
+        "黑眼圈",
+        "眼纹",
+        "眼周"
+      ],
+      "target_problems": [
+        "眼周细纹",
+        "泪沟",
+        "眼袋",
+        "黑眼圈",
+        "上眼皮松弛"
+      ],
+      "recommended_projects": [
+        {
+          "project_id": "eye_filler",
+          "project_name": "泪沟填充",
+          "category": "眼周年轻化",
+          "priority": "high",
+          "reason": "填充泪沟，改善黑眼圈"
+        },
+        {
+          "project_id": "eye_botox",
+          "project_name": "眼周除皱",
+          "category": "眼周年轻化",
+          "priority": "high",
+          "reason": "改善鱼尾纹、眼周细纹"
+        },
+        {
+          "project_id": "eye_comprehensive",
+          "project_name": "眼周抗衰一卡通",
+          "category": "眼周年轻化",
+          "priority": "medium",
+          "reason": "综合方案，全面改善"
+        }
+      ],
+      "plans": [
+        {
+          "level": "basic",
+          "name": "基础眼部方案",
+          "projects": [
+            "眼部除皱",
+            "眼周导入"
+          ],
+          "sessions": "2-3次",
+          "duration": "3-6个月",
+          "price_range": "3000-6000",
+          "suitable_for": "初现细纹"
+        },
+        {
+          "level": "standard",
+          "name": "标准眼部方案",
+          "projects": [
+            "泪沟填充",
+            "眼部微针",
+            "眼周除皱"
+          ],
+          "sessions": "4-6次",
+          "duration": "6-12个月",
+          "price_range": "10000-20000",
+          "suitable_for": "泪沟、眼袋、细纹"
+        },
+        {
+          "level": "premium",
+          "name": "高级眼部方案",
+          "projects": [
+            "眼周抗衰一卡通",
+            "热芙美眼周",
+            "胶原灌注"
+          ],
+          "sessions": "6-10次",
+          "duration": "12个月",
+          "price_range": "25000-40000",
+          "suitable_for": "多重眼部问题"
+        }
+      ]
+    },
+    {
+      "id": "facial_contouring",
+      "name": "面部轮廓",
+      "keywords": [
+        "轮廓",
+        "瘦脸",
+        "下颌",
+        "咬肌",
+        "双下巴",
+        "面部塑形"
+      ],
+      "target_problems": [
+        "咬肌肥大",
+        "双下巴",
+        "下颌线模糊",
+        "面部肥胖"
+      ],
+      "recommended_projects": [
+        {
+          "project_id": "botox_masseter",
+          "project_name": "瘦脸针",
+          "category": "注射项目",
+          "priority": "high",
+          "reason": "放松咬肌，塑造V脸"
+        },
+        {
+          "project_id": "diamond_sculpting",
+          "project_name": "钻石超塑",
+          "category": "口周年轻化",
+          "priority": "high",
+          "reason": "溶脂塑形，优化轮廓"
+        },
+        {
+          "project_id": "jawline_filler",
+          "project_name": "下颌线注射",
+          "category": "口周年轻化",
+          "priority": "medium",
+          "reason": "填充塑形，清晰轮廓"
+        }
+      ],
+      "plans": [
+        {
+          "level": "basic",
+          "name": "基础轮廓方案",
+          "projects": [
+            "瘦脸针",
+            "钻石超塑"
+          ],
+          "sessions": "2-4次",
+          "duration": "3-6个月",
+          "price_range": "4000-8000",
+          "suitable_for": "咬肌肥大，轻度臃肿"
+        },
+        {
+          "level": "standard",
+          "name": "标准轮廓方案",
+          "projects": [
+            "瘦脸针",
+            "钻石超塑疗程",
+            "颈阔肌放松"
+          ],
+          "sessions": "6-9次",
+          "duration": "6个月",
+          "price_range": "12000-20000",
+          "suitable_for": "双下巴，下颌线模糊"
+        },
+        {
+          "level": "premium",
+          "name": "高级轮廓方案",
+          "projects": [
+            "吸脂+微雕",
+            "下颌线注射",
+            "综合塑形"
+          ],
+          "sessions": "手术+维养",
+          "duration": "12个月",
+          "price_range": "25000-50000",
+          "suitable_for": "重度改善，追求精致"
+        }
+      ]
+    },
+    {
+      "id": "neck_rejuvenation",
+      "name": "颈部年轻化",
+      "keywords": [
+        "颈部",
+        "颈纹",
+        "颈部松弛",
+        "火鸡脖"
+      ],
+      "target_problems": [
+        "颈纹",
+        "颈部松弛",
+        "颈部粗糙"
+      ],
+      "recommended_projects": [
+        {
+          "project_id": "hito",
+          "project_name": "嗨体颈纹填充",
+          "category": "颈部抗衰",
+          "priority": "high",
+          "reason": "填充颈纹，效果显著"
+        },
+        {
+          "project_id": "neck_rf",
+          "project_name": "颈部射频微针",
+          "category": "颈部抗衰",
+          "priority": "high",
+          "reason": "紧致颈部皮肤"
+        },
+        {
+          "project_id": "shoulder_slimming",
+          "project_name": "瘦肩针",
+          "category": "颈部抗衰",
+          "priority": "medium",
+          "reason": "提升肩颈线条"
+        }
+      ],
+      "plans": [
+        {
+          "level": "basic",
+          "name": "基础颈部方案",
+          "projects": [
+            "嗨体1.5",
+            "颈部护理"
+          ],
+          "sessions": "2-3次",
+          "duration": "3-6个月",
+          "price_range": "3000-5000",
+          "suitable_for": "轻度颈纹"
+        },
+        {
+          "level": "standard",
+          "name": "标准颈部方案",
+          "projects": [
+            "嗨体组合",
+            "颈部微针",
+            "瘦肩针"
+          ],
+          "sessions": "4-6次",
+          "duration": "6个月",
+          "price_range": "8000-15000",
+          "suitable_for": "颈纹+松弛"
+        },
+        {
+          "level": "premium",
+          "name": "高级颈部方案",
+          "projects": [
+            "润致格格针",
+            "曲提颈部",
+            "综合治疗"
+          ],
+          "sessions": "6-10次",
+          "duration": "12个月",
+          "price_range": "20000-35000",
+          "suitable_for": "深层颈纹，重度松弛"
+        }
+      ]
+    },
+    {
+      "id": "acne_scar",
+      "name": "痘坑痘印",
+      "keywords": [
+        "痘坑",
+        "痘印",
+        "疤痕",
+        "凹陷疤痕"
+      ],
+      "target_problems": [
+        "痘坑",
+        "痘印",
+        "凹陷性疤痕",
+        "红色痘印"
+      ],
+      "recommended_projects": [
+        {
+          "project_id": "co2_fractional",
+          "project_name": "CO2点阵激光",
+          "category": "痤疮痘痘治疗",
+          "priority": "high",
+          "reason": "剥脱性激光，改善深度痘坑"
+        },
+        {
+          "project_id": "fractional_1550",
+          "project_name": "1550非剥脱点阵",
+          "category": "痤疮痘痘治疗",
+          "priority": "high",
+          "reason": "刺激深层胶原，改善中深痘坑"
+        },
+        {
+          "project_id": "needle_knife",
+          "project_name": "小针刀剥离",
+          "category": "痤疮痘痘治疗",
+          "priority": "medium",
+          "reason": "松解粘连，改善凹陷"
+        }
+      ],
+      "plans": [
+        {
+          "level": "basic",
+          "name": "基础痘坑方案",
+          "projects": [
+            "1565点阵",
+            "痘印精华"
+          ],
+          "sessions": "3-5次",
+          "duration": "2-3个月",
+          "price_range": "5000-8000",
+          "suitable_for": "浅层痘坑，红色痘印"
+        },
+        {
+          "level": "standard",
+          "name": "标准痘坑方案",
+          "projects": [
+            "1550点阵",
+            "小针刀",
+            "修复产品"
+          ],
+          "sessions": "6-9次",
+          "duration": "4-6个月",
+          "price_range": "12000-18000",
+          "suitable_for": "中度痘坑"
+        },
+        {
+          "level": "premium",
+          "name": "高级痘坑方案",
+          "projects": [
+            "毛孔痘坑卡3.0",
+            "CO2点阵",
+            "综合治疗"
+          ],
+          "sessions": "疗程套餐",
+          "duration": "6-12个月",
+          "price_range": "20000-30000",
+          "suitable_for": "重度痘坑，多种类型"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "packages": [
+    {
+      "id": "basic_maintenance",
+      "name": "基础维养卡",
+      "name_en": "Basic Maintenance Package",
+      "type": "选三",
+      "options": 6,
+      "selections": 3,
+      "price": 3680,
+      "items": [
+        "黄金超光子3X全模式 * 6次",
+        "超皮秒美白嫩肤 * 6次",
+        "黄金射频舒敏抗衰 * 6次",
+        "1565/1550点阵激光 * 6次",
+        "美白维养水光 * 6支",
+        "4D紧致白双模式 * 6次"
+      ],
+      "description": "适合健康皮肤，想要美白、补水或基础维养"
+    },
+    {
+      "id": "light_anti_aging",
+      "name": "轻轻抗衰卡",
+      "name_en": "Light Anti-aging Package",
+      "type": "选三",
+      "options": 6,
+      "selections": 3,
+      "price": 4980,
+      "items": [
+        "欧洲之星4Dpro全模式(面)60min超级版 *2次",
+        "热拉提PLUS全模式45min保准版 *2次",
+        "普丽兰婴儿针/保斯登胶原/倩碧胶原双子瓶 2支",
+        "钻石超塑(面+下颌缘) *2次",
+        "薇瑟拉黄金微针 *2次",
+        "黄金炮 *1次"
+      ],
+      "gift": "送基础水光 童颜龄云朵水光2支",
+      "description": "适合30+左右的轻度抗衰保养需求"
+    },
+    {
+      "id": "luxury_maintenance_annual",
+      "name": "轻奢维养年卡",
+      "name_en": "Luxury Maintenance Annual Package",
+      "price": 12800,
+      "items": [
+        "光电维养项目：超皮秒/超光子/1550点阵激光/1565点阵激光/Fotona 4D/黄金热拉提 (9次)",
+        "小抗衰系列：半岛黄金微针4面部/黄金炮/薇瑟拉黄金微针(面颈眼任选) (3次)",
+        "中胚层水光：10支",
+        "皮肤管理：全年不限次使用 清痘/湿敷/照光/导入"
+      ],
+      "description": "覆盖1-1.5年的皮肤治疗，维持肌肤较好状态"
+    },
+    {
+      "id": "premium_anti_aging_annual",
+      "name": "贵妇抗衰年卡",
+      "name_en": "Premium Anti-aging Annual Package",
+      "price": 19800,
+      "items": [
+        "光电维养项目：超皮秒/超光子/1550点阵/1565点阵/4D/黄金热拉提/Fotona4D 任选6次",
+        "光电抗衰项目：曲提超声刀*2 热芙美1200发*1 薇瑟拉黄金微针3次",
+        "中胚层水光：任选8支",
+        "赠送高端中胚体验卡：2支"
+      ],
+      "description": "适合30+以上有抗衰需求，有轻度衰老问题的皮肤"
+    },
+    {
+      "id": "haute_couture_anti_aging",
+      "name": "高定皮肤抗衰卡",
+      "name_en": "Haute Couture Anti-aging Package",
+      "price": 29800,
+      "items": [
+        "光电维养项目：超皮秒/超光子/1550点阵/1565点阵/4D/黄金热拉提任选 6次",
+        "光电抗衰项目：曲提超声刀*2 热芙美1200发*1 半岛黄金微针五代*3次",
+        "高端中胚层水光：任选10支"
+      ],
+      "description": "适合有更高皮肤治疗需求的顾客"
+    },
+    {
+      "id": "eye_anti_aging_package",
+      "name": "眼周抗衰一卡通",
+      "name_en": "Eye Anti-aging All-in-One Package",
+      "price": 18800,
+      "items": [
+        "爱莉丝胶原 *3支（泪沟填充）+ 卧蚕1支",
+        "半岛黄金微针五代 眼周模式 *2次",
+        "爱莉丝眶周胶原水光3ml *2支",
+        "保妥适眼周除皱（猫抓纹/鱼尾纹）*1次",
+        "纳米眼袋1次（不限制使用时间，可转送好友）",
+        "Fotona 4D 眼周模式 *3次",
+        "超皮秒黑眼圈 *3次"
+      ],
+      "description": "综合解决眼周泪沟、细纹、松弛、动态纹、黑眼圈等问题"
+    },
+    {
+      "id": "perioral_anti_aging_package",
+      "name": "口周抗衰综合套餐",
+      "name_en": "Perioral Anti-aging Package",
+      "price": 18800,
+      "items": [
+        "润致五号/润致natural *4支（鼻基底/下巴）",
+        "普丽妍童颜 *1支",
+        "口周肌肉精调 *1次（唇角上扬/法令纹淡化/颏肌放松）",
+        "乐提葆瘦脸+腮腺调整 *1次 100U",
+        "曲提中下面部（口角、苹果肌、下颌缘）*1次",
+        "Fotona 4D 口内模式 3次",
+        "钻石超塑 口角囊袋+下颌缘 3次"
+      ],
+      "description": "治疗+日常保养综合解决口周问题"
+    }
+  ],
+  "sensitive_skin_packages": [
+    {
+      "id": "sensitive_repair_a",
+      "name": "白月光脱敏抗衰A",
+      "name_en": "White Moonlight Sensitive Repair A",
+      "price": 2980,
+      "items": [
+        "射频微电修复 *1次",
+        "黄金超光子全修复 *1次",
+        "普丽兰（动能素）*1支/易可美*1支/海兰提斯*1支"
+      ],
+      "description": "基础修复型，适合轻度敏感"
+    },
+    {
+      "id": "sensitive_repair_b",
+      "name": "白月光脱敏抗衰B",
+      "name_en": "White Moonlight Sensitive Repair B",
+      "price": 3580,
+      "items": [
+        "射频微电修复 *1次",
+        "黄金超光子全修复 *1次",
+        "乔洛施AR *1支/保斯登壳聚糖瀑布13ml/17型胶原60mg"
+      ],
+      "description": "抗衰修复型，适合30+敏感肌"
+    },
+    {
+      "id": "sensitive_repair_c",
+      "name": "白月光强韧修复C",
+      "name_en": "White Moonlight Strong Repair C",
+      "price": 3980,
+      "items": [
+        "射频微电修复 *1次",
+        "黄金超光子全修复 *1次",
+        "思伊美水光",
+        "全脸微滴舒缓",
+        "普丽兰婴儿针/乔洛施AR/17型胶原60mg"
+      ],
+      "description": "适合中重度敏感肌肤"
+    }
+  ],
+  "spot_removal_packages": [
+    {
+      "id": "spot_removal_1",
+      "name": "①号淡斑卡",
+      "name_en": "Spot Lightening Package No.1",
+      "sessions": "6套-12次",
+      "price": 12800,
+      "items": [
+        "黄金超光子AOPT/调Q/超皮秒/超分子水杨酸 [≤12次]",
+        "芬生源月光瓶/富勒烯炫白/童颜龄滤光 *6支",
+        "送基础水光 2支"
+      ]
+    },
+    {
+      "id": "spot_removal_2",
+      "name": "②号祛斑卡",
+      "name_en": "Spot Removal Package No.2",
+      "sessions": "6套-12次",
+      "price": 16800,
+      "items": [
+        "黄金超光子AOPT/调Q/超皮秒/1565点阵/超皮秒/超分子水杨酸 [≤12次]",
+        "富勒烯净白/黄金元祛斑8ml/焕妮秀高浓度三文鱼/诗婉妮白月光/芮娜塔17型胶原 6支",
+        "衡力 *1支 [50U]",
+        "送基础水光 2支"
+      ]
+    },
+    {
+      "id": "spot_removal_3",
+      "name": "③号净斑卡",
+      "name_en": "Spot Purifying Package No.3",
+      "sessions": "6套-12次",
+      "price": 26800,
+      "items": [
+        "黄金超光子AOPT/调Q/超皮秒/1566点阵/超分子水杨酸 [≤12次]",
+        "黄金微针五代1次",
+        "滢祎美55ml/瑞帕特5ml/费丝欧俪5ml 6支",
+        "衡力1支 [50U]",
+        "送基础水光 2支"
+      ]
+    }
+  ],
+  "acne_treatment_packages": [
+    {
+      "id": "acne_clear_a",
+      "name": "痘清清A",
+      "name_en": "Acne Clear A",
+      "price": 980,
+      "items": [
+        "1565点阵/1550点阵 *1次",
+        "博乐达超分子水杨酸 *1次"
+      ]
+    },
+    {
+      "id": "acne_clear_b",
+      "name": "痘清清B",
+      "name_en": "Acne Clear B",
+      "price": 1280,
+      "items": [
+        "芬生源208抗痘再生瓶",
+        "水杨博乐达超分子水杨酸",
+        "OPT光子/1565/CO2点阵激光 *1次"
+      ]
+    },
+    {
+      "id": "acne_clear_c",
+      "name": "痘清清C",
+      "name_en": "Acne Clear C",
+      "price": 2580,
+      "items": [
+        "博乐达超分子水杨酸 *1次",
+        "黄金超光子/1565/CO2 1次",
+        "伊肤泉战痘套组/芬生源祛痘套组 *1次",
+        "LED/湿敷/针清 1次"
+      ]
+    },
+    {
+      "id": "pore_scar_1",
+      "name": "毛孔痘坑卡1.0",
+      "name_en": "Pore & Scar Package 1.0",
+      "price": 2580,
+      "items": [
+        "剥脱点阵激光",
+        "博乐达超分子水杨酸",
+        "小针刀剥离",
+        "针清/照光"
+      ]
+    },
+    {
+      "id": "pore_scar_3",
+      "name": "毛孔痘坑卡3.0",
+      "name_en": "Pore & Scar Package 3.0",
+      "price": 3980,
+      "items": [
+        "黄金微针（非绝缘）1",
+        "CO2点阵激光 *1",
+        "伊肤泉战痘套组/芬生源祛痘套组 *1次",
+        "博乐达超分子水杨酸 *2",
+        "小针刀剥离2次",
+        "针清/照光 6次"
+      ]
+    }
+  ]
+}

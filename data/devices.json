@@ -1,0 +1,363 @@
+{
+  "devices": [
+    {
+      "id": "ipl_opt",
+      "name": "OPT/全能光子",
+      "name_en": "IPL/OPT",
+      "type": "light_therapy",
+      "functions": [
+        "改善肤色不均",
+        "淡化色斑",
+        "收缩毛孔",
+        "改善肤质"
+      ],
+      "modes": ["全模式"],
+      "price_single": 380,
+      "price_activity": null
+    },
+    {
+      "id": "aopt",
+      "name": "AOPT超光子",
+      "name_en": "AOPT",
+      "type": "light_therapy",
+      "functions": [
+        "改善肤色不均",
+        "淡化色斑",
+        "收缩毛孔",
+        "改善肤质"
+      ],
+      "modes": ["全模式"],
+      "price_single": 580,
+      "price_activity": null
+    },
+    {
+      "id": "golden_photon",
+      "name": "黄金超光子",
+      "name_en": "Golden Photon",
+      "type": "light_therapy",
+      "functions": [
+        "改善肤色不均",
+        "淡化色斑",
+        "收缩毛孔",
+        "改善肤质"
+      ],
+      "modes": ["全模式", "抗衰维养模式"],
+      "price_single": 980,
+      "price_activity": null
+    },
+    {
+      "id": "picosecond",
+      "name": "超皮秒",
+      "name_en": "Picosecond Laser",
+      "type": "laser",
+      "functions": [
+        "色斑",
+        "纹身",
+        "痘印",
+        "肤色暗沉"
+      ],
+      "areas": ["全脸", "局部"],
+      "price_full_face": 1980,
+      "price_local": 680
+    },
+    {
+      "id": "q_switched",
+      "name": "调Q激光",
+      "name_en": "Q-Switched Laser",
+      "type": "laser",
+      "functions": [
+        "色斑",
+        "纹身",
+        "痘印",
+        "肤色暗沉"
+      ],
+      "areas": ["全脸", "局部"],
+      "price_full_face": 1980,
+      "price_local": 980
+    },
+    {
+      "id": "fractional_1565",
+      "name": "1565非剥脱点阵",
+      "name_en": "1565 Non-ablative Fractional",
+      "type": "laser",
+      "functions": [
+        "改善痘坑痘印",
+        "细纹",
+        "毛孔粗大"
+      ],
+      "depth": "0.8mm",
+      "price_full_face": 1980,
+      "price_local": 680
+    },
+    {
+      "id": "co2_laser",
+      "name": "二氧化碳点阵激光",
+      "name_en": "CO2 Fractional Laser",
+      "type": "laser",
+      "functions": [
+        "全脸换肤",
+        "改善皱纹",
+        "疤痕",
+        "色素问题"
+      ],
+      "price_full_face": 1980,
+      "price_local": 980,
+      "price_per_lesion": 200
+    },
+    {
+      "id": "golden_rf_4",
+      "name": "半岛黄金微针4.0",
+      "name_en": "Golden RF Microneedling 4.0",
+      "type": "rf_microneedling",
+      "max_depth": "2.0mm",
+      "functions": [
+        "收紧皮肤",
+        "改善细纹",
+        "改善毛孔",
+        "刺激胶原再生"
+      ],
+      "modes": [
+        {
+          "name": "嫩肤",
+          "shots": 800,
+          "price": 1980
+        },
+        {
+          "name": "抗衰",
+          "shots": 800,
+          "price": 2980
+        },
+        {
+          "name": "眶周",
+          "shots": 400,
+          "price": 2980
+        },
+        {
+          "name": "颈部",
+          "price": 2980
+        }
+      ]
+    },
+    {
+      "id": "golden_rf_5",
+      "name": "半岛黄金微针5.0",
+      "name_en": "Golden RF Microneedling 5.0",
+      "type": "rf_microneedling",
+      "max_depth": "3.5mm",
+      "functions": [
+        "分层技术",
+        "更强紧致提升效果"
+      ],
+      "modes": [
+        {
+          "name": "面部",
+          "shots": 1200,
+          "price": 3980
+        },
+        {
+          "name": "颈部",
+          "shots": 1200,
+          "price": 4980
+        },
+        {
+          "name": "眶周",
+          "shots": 600,
+          "price": 4980
+        }
+      ]
+    },
+    {
+      "id": "weisela_rf",
+      "name": "薇瑟拉黄金微针",
+      "name_en": "Weisela RF Microneedling",
+      "type": "rf_microneedling",
+      "max_depth": "3.3mm",
+      "functions": [
+        "收紧皮肤",
+        "改善细纹",
+        "改善毛孔",
+        "刺激胶原再生"
+      ],
+      "modes": [
+        {
+          "name": "面/颈/眼",
+          "shots": 1000,
+          "price": 1980
+        }
+      ]
+    },
+    {
+      "id": "thermal_plus",
+      "name": "热拉提PLUS",
+      "name_en": "ThermaPlus",
+      "type": "hifu",
+      "functions": [
+        "深层提拉",
+        "紧致轮廓",
+        "改善肤质"
+      ],
+      "modes": [
+        {
+          "name": "维养版(面部)",
+          "price": 580
+        },
+        {
+          "name": "专业版(面部)",
+          "price": 880
+        },
+        {
+          "name": "双模式版(面部)",
+          "price": 1280
+        }
+      ]
+    },
+    {
+      "id": "fotona_4d",
+      "name": "Fotona 4D Pro",
+      "name_en": "Fotona 4D Pro",
+      "type": "laser",
+      "functions": [
+        "提轮廓",
+        "祛皱纹",
+        "嫩肌肤",
+        "内外联合分层治疗"
+      ],
+      "modes": [
+        "Smooth(口内模式)",
+        "Frac3(真皮深层)",
+        "Piano(皮下脂肪)",
+        "Superficial(表皮层)"
+      ],
+      "pricing": [
+        {
+          "area": "眼部不限模式",
+          "price": 1980
+        },
+        {
+          "area": "单模式(面部)不含口内",
+          "price": 1280
+        },
+        {
+          "area": "双模式紧致白(面部)",
+          "price": 1580
+        },
+        {
+          "area": "全模式(面部)",
+          "price": 4980
+        }
+      ]
+    },
+    {
+      "id": "ultrasound_hifu",
+      "name": "半岛超声炮",
+      "name_en": "HIFU Ultrasound",
+      "type": "hifu",
+      "functions": [
+        "筋膜层收紧",
+        "提拉紧致",
+        "改善松弛下垂"
+      ],
+      "pricing": [
+        {
+          "area": "面部单模式",
+          "price": 1980
+        },
+        {
+          "area": "单部位全模式",
+          "price": 1980
+        },
+        {
+          "area": "面部全模式(不含双下巴下颌缘)",
+          "price": 2980
+        }
+      ]
+    },
+    {
+      "id": "taixl_cannon",
+      "name": "Taixl黄金炮",
+      "name_en": "Taixl Golden Cannon",
+      "type": "hifu",
+      "functions": [
+        "筋膜层收紧",
+        "提拉紧致"
+      ],
+      "note": "痛感强，价格较低",
+      "pricing": [
+        {
+          "name": "青春版",
+          "price": 1980
+        },
+        {
+          "name": "面部全模式",
+          "price": 2680
+        },
+        {
+          "name": "单部位全模式",
+          "price": 980
+        }
+      ]
+    },
+    {
+      "id": "quti_ultrasound",
+      "name": "曲提超声刀",
+      "name_en": "Quti HIFU",
+      "type": "hifu",
+      "functions": [
+        "弧面刀头",
+        "更强收紧提升效果"
+      ],
+      "pricing": [
+        {
+          "area": "单部位全模式",
+          "price": 3800
+        },
+        {
+          "area": "面部全模式",
+          "price": 8800
+        },
+        {
+          "area": "颈部全模式",
+          "price": 8800
+        }
+      ]
+    },
+    {
+      "id": "thermage",
+      "name": "热芙美",
+      "name_en": "Thermage",
+      "type": "rf",
+      "functions": [
+        "刺激胶原蛋白",
+        "紧致皮肤",
+        "改善细纹"
+      ],
+      "pricing": [
+        {
+          "area": "眼部轻度",
+          "shots": 600,
+          "price": 8800
+        },
+        {
+          "area": "眼部中重度",
+          "shots": 900,
+          "price": 12800
+        },
+        {
+          "area": "面部轻度",
+          "shots": 600,
+          "price": 8800
+        },
+        {
+          "area": "面部中度",
+          "shots": 900,
+          "price": 12800
+        },
+        {
+          "area": "面部重度",
+          "shots": 1200,
+          "price": 15800
+        }
+      ]
+    }
+  ]
+}
